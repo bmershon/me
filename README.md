@@ -1,3 +1,5 @@
 # Brooks Mershon
 
-A GitHub wiki. About me!
+A GitHub wiki.
+
+About me!
