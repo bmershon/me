@@ -4,6 +4,8 @@ _Currently working [@SketchUp](https://twitter.com/SketchUp)._
 
 _B.S. in Computer Science from Duke University (May 2016)_
 
+A PDF of my résumé can be found [here](https://github.com/bmershon/me/blob/master/documents/resume/mershon-resume.pdf).
+
 `brooks.mershon at alumni.duke.edu`
 
 ## [Code](http://bl.ocks.org/bmershon)
