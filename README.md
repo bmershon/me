@@ -1,2 +1,3 @@
-# bmershon.github.io
-Personal website and wiki.
+# Brooks Mershon
+
+A GitHub wiki. About me!
