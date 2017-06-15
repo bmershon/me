@@ -1,6 +1,6 @@
 # Brooks Mershon
 
-_Currently working [@SketchUp](https://twitter.com/SketchUp).
+_Currently working [@SketchUp](https://twitter.com/SketchUp)._
 
 _B.S. in Computer Science from Duke University (May 2016)_
 
