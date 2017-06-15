@@ -1,5 +1,8 @@
 # Brooks Mershon
 
+#### [→ GitHub](https://github.com/bmershon/)
+
+
 <a name="little-schemer" href="#little-schemer">#</a><b> The Little Schemer Code</b>
 <a href="https://github.com/bmershon/little-schemer"><img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/little-schemer/teaser.png" width="100%" alt="The Little Schemer [code]"></a>
 
@@ -47,3 +50,17 @@
 
 <a name="Flickr" href="#Flickr">#</a><b> Flickr [[Medium](https://medium.com/@MershonBrooks/flickr-d1d7eb09d5c6#.tt1jo7ern)]</b>
 <a href="https://medium.com/@MershonBrooks/flickr-d1d7eb09d5c6#.tt1jo7ern"><img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/flickr/teaser.png" width="100%" alt="Chain Fence and Spinning Can"></a>
+
+## [What I'm Reading](https://github.com/bmershon/catalog/wiki)
+
+[Books](https://github.com/bmershon/fieldnotes/wiki/Nonfiction-Books), [essays](https://github.com/bmershon/fieldnotes/wiki/Essays), [films](https://github.com/bmershon/fieldnotes/wiki/Films) and [other resources](https://github.com/bmershon/fieldnotes/wiki/Technical-Writing) I have found to be particularly great or enriching.
+
+## [→ bl.ocks.org](http://bl.ocks.org/bmershon)
+
+Code snippets that do something neat in the browser.
+
+Currently working [@SketchUp](https://twitter.com/SketchUp). Check it out [in the browser](https://www.sketchup.com/products/my-sketchup)!
+
+_B.S. in Computer Science from Duke University (May 2016)._
+
+`brooks.mershon at alumni.duke.edu`
