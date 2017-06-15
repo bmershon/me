@@ -14,7 +14,7 @@ Math, code snippets, and little interactive examples can be found on [bl.ocks.or
 
 [Books](https://github.com/bmershon/fieldnotes/wiki/Nonfiction-Books), [essays](https://github.com/bmershon/fieldnotes/wiki/Essays), [films](https://github.com/bmershon/fieldnotes/wiki/Films) and [other resources](https://github.com/bmershon/fieldnotes/wiki/Technical-Writing) I have found to be particularly great or enriching.
 
-## Projects
+## Latest things
 
 <a name="little-schemer" href="#little-schemer">#</a><b> The Little Schemer Code</b>
 <a href="https://github.com/bmershon/little-schemer"><img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/little-schemer/teaser.png" width="100%" alt="The Little Schemer [code]"></a>
