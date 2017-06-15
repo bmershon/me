@@ -48,9 +48,9 @@
 <a name="Flickr" href="#Flickr">#</a><b> Flickr [[Medium](https://medium.com/@MershonBrooks/flickr-d1d7eb09d5c6#.tt1jo7ern)]</b>
 <a href="https://medium.com/@MershonBrooks/flickr-d1d7eb09d5c6#.tt1jo7ern"><img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/flickr/teaser.png" width="100%" alt="Chain Fence and Spinning Can"></a>
 
-## [bl.ocks.org](http://bl.ocks.org/bmershon)
+## [Code](http://bl.ocks.org/bmershon)
 
-Math, code snippets, interactive examples. Mostly built with [D3](https://d3js.org/).
+Math, code snippets, and little interactive examples can be found on [bl.ocks.org](http://bl.ocks.org/bmershon). Larger software and writing projects may be found in my [GitHub repositories](https://github.com/bmershon). 
 
 ## [What I'm Reading](https://github.com/bmershon/catalog/wiki)
 
