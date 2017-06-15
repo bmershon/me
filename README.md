@@ -50,7 +50,7 @@
 
 ## [bl.ocks.org](http://bl.ocks.org/bmershon)
 
-Code snippets that do something neat in the browser.
+Math, code snippets, interactive examples. Mostly built with [D3](https://d3js.org/).
 
 ## [What I'm Reading](https://github.com/bmershon/catalog/wiki)
 
@@ -58,7 +58,7 @@ Code snippets that do something neat in the browser.
 
 -----------
 
-Currently working [@SketchUp](https://twitter.com/SketchUp). Check it out [in the browser](https://www.sketchup.com/products/my-sketchup)!
+_Currently working [@SketchUp](https://twitter.com/SketchUp). Check it out [in the browser](https://www.sketchup.com/products/my-sketchup)!_
 
 _B.S. in Computer Science from Duke University (May 2016)_
 
