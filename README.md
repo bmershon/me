@@ -1,8 +1,5 @@
 # Brooks Mershon
 
-#### [→ GitHub](https://github.com/bmershon/)
-
-
 <a name="little-schemer" href="#little-schemer">#</a><b> The Little Schemer Code</b>
 <a href="https://github.com/bmershon/little-schemer"><img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/little-schemer/teaser.png" width="100%" alt="The Little Schemer [code]"></a>
 
