@@ -51,7 +51,7 @@
 ## [Code](http://bl.ocks.org/bmershon)
 
 * [GitHub repositories](https://github.com/bmershon) for longer projects. Some repositories are actually teaching materials organized like a software project, because teaching *is* programming. And I *love* teaching and explaining. Organizing nearly any individual endeavor with repositories helps me balance both freewheeling exploration and rigor as I explore different material. Most importantly, repositories and other records help me to make better use of [external memory](https://usamo.wordpress.com/2015/03/14/writing/).
-* [bl.ocks.org](http://bl.ocks.org/bmershon) for interactive visuals, code snippets, and little explainers (usually made for myself).
+* [bl.ocks.org](http://bl.ocks.org/bmershon) for interactive visuals, code snippets, and little explainers (usually made for myself). Bite size.
 
 ## [Reading](https://github.com/bmershon/catalog/wiki)
 
