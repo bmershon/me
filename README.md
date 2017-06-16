@@ -52,9 +52,13 @@
 
 Math, code snippets, and little interactive examples can be found on [bl.ocks.org](http://bl.ocks.org/bmershon). Larger software and writing projects may be found in my [GitHub repositories](https://github.com/bmershon). 
 
-## [What I'm Reading](https://github.com/bmershon/catalog/wiki)
+## [Reading](https://github.com/bmershon/catalog/wiki)
 
 [Books](https://github.com/bmershon/fieldnotes/wiki/Nonfiction-Books), [essays](https://github.com/bmershon/fieldnotes/wiki/Essays), [films](https://github.com/bmershon/fieldnotes/wiki/Films) and [other resources](https://github.com/bmershon/fieldnotes/wiki/Technical-Writing) I have found to be particularly great or enriching.
+
+## [Photography](https://www.flickr.com/photos/brooksmershon/albums)
+
+Canon 6D and a 40 mm pancake lens. Except for when an iPhone is the only (and therefore best) camera.
 
 -------
 
