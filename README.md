@@ -52,7 +52,7 @@
 
 [GitHub repositories](https://github.com/bmershon) for longer projects. Some are actually teaching materials organized like a software project, because teaching *is* programming. And I *love* teaching and explaining as I'm learning things for myself.
 
-[bl.ocks.org](http://bl.ocks.org/bmershon) for interactive visuals, code snippets, and bite-sized explainers (usually made for myself but satisfying to push out in the world).
+[bl.ocks.org](http://bl.ocks.org/bmershon) for interactive visuals, code snippets, and [bite-sized explainers](https://bl.ocks.org/bmershon/372fe12a6d2b560513b3aa8d6c5a4b31) (usually made for myself but satisfying to push out in the world).
 
 ## [Reading](https://github.com/bmershon/catalog/wiki)
 
