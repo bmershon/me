@@ -50,7 +50,8 @@
 
 ## [Code](http://bl.ocks.org/bmershon)
 
-Math, code snippets, and little interactive examples can be found on [bl.ocks.org](http://bl.ocks.org/bmershon). Larger software and writing projects may be found in my [GitHub repositories](https://github.com/bmershon). 
+* [GitHub repositories](https://github.com/bmershon)
+* [bl.ocks.org](http://bl.ocks.org/bmershon) for interactive examples.
 
 ## [Reading](https://github.com/bmershon/catalog/wiki)
 
@@ -58,7 +59,7 @@ Math, code snippets, and little interactive examples can be found on [bl.ocks.or
 
 ## [Photography](https://www.flickr.com/photos/brooksmershon/albums)
 
-Canon 6D and a 40 mm pancake lens. Except for when an iPhone is the only (and therefore best) camera.
+Canon 6D and a 40 mm pancake lens. Except for when an iPhone is the only camera.
 
 -------
 
