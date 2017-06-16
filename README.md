@@ -50,7 +50,7 @@
 
 ## [Code](http://bl.ocks.org/bmershon)
 
-[GitHub repositories](https://github.com/bmershon) for longer projects. Some are actually teaching materials organized like a software project, because teaching *is* programming. And I *love* teaching and explaining as I'm learning things for myself.
+[GitHub repositories](https://github.com/bmershon) for longer projects. Some repos are actually teaching materials organized in the spirit of a software project, because teaching *is* programming. And I *love* teaching and explaining as I'm learning things for myself while leaving a record beind, if only to help [externalize memory](https://usamo.wordpress.com/2015/03/14/writing/).
 
 [bl.ocks.org](http://bl.ocks.org/bmershon) for interactive visuals, code snippets, and [bite-sized explainers](https://bl.ocks.org/bmershon/372fe12a6d2b560513b3aa8d6c5a4b31). Often made [to teach myself](https://bl.ocks.org/bmershon/d332ba9b06975562979efba7b367e162).
 
