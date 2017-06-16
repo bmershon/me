@@ -51,7 +51,7 @@
 ## [Code](http://bl.ocks.org/bmershon)
 
 * [GitHub repositories](https://github.com/bmershon) for longer projects.
-* [bl.ocks.org](http://bl.ocks.org/bmershon) for interactive examples.
+* [bl.ocks.org](http://bl.ocks.org/bmershon) for interactive visuals, code snippets, self-contained examples.
 
 ## [Reading](https://github.com/bmershon/catalog/wiki)
 
@@ -59,7 +59,7 @@
 
 ## [Photography](https://www.flickr.com/photos/brooksmershon/albums)
 
-Canon 6D and a 40 mm pancake lens. Except for when an iPhone is the only camera.
+Canon 6D and a 40 mm pancake lens, but also iPhone because *memories*.
 
 -------
 
