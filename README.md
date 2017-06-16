@@ -51,7 +51,7 @@
 ## [Code](http://bl.ocks.org/bmershon)
 
 * [GitHub repositories](https://github.com/bmershon) for longer projects.
-* [bl.ocks.org](http://bl.ocks.org/bmershon) for interactive visuals, code snippets, self-contained examples.
+* [bl.ocks.org](http://bl.ocks.org/bmershon) for interactive visuals, code snippets, and little explainers (usually made for myself).
 
 ## [Reading](https://github.com/bmershon/catalog/wiki)
 
