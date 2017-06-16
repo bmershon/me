@@ -50,7 +50,7 @@
 
 ## [Code](http://bl.ocks.org/bmershon)
 
-* [GitHub repositories](https://github.com/bmershon)
+* [GitHub repositories](https://github.com/bmershon) for longer projects.
 * [bl.ocks.org](http://bl.ocks.org/bmershon) for interactive examples.
 
 ## [Reading](https://github.com/bmershon/catalog/wiki)
