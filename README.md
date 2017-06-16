@@ -54,7 +54,7 @@
 
 [bl.ocks.org](http://bl.ocks.org/bmershon) for interactive visuals, code snippets, and [bite-sized explainers](https://bl.ocks.org/bmershon/372fe12a6d2b560513b3aa8d6c5a4b31). Often made [to teach myself](https://bl.ocks.org/bmershon/d332ba9b06975562979efba7b367e162).
 
-## [Reading](https://github.com/bmershon/catalog/wiki)
+## [Catalog](https://github.com/bmershon/catalog/wiki)
 
 [Books](https://github.com/bmershon/fieldnotes/wiki/Nonfiction-Books), [essays](https://github.com/bmershon/fieldnotes/wiki/Essays), [films](https://github.com/bmershon/fieldnotes/wiki/Films) and [other resources](https://github.com/bmershon/fieldnotes/wiki/Technical-Writing) I have found to be particularly great or enriching.
 
