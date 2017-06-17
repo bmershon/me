@@ -52,7 +52,7 @@
 
 * [GitHub repositories](https://github.com/bmershon) for longer projects. Some repos are actually teaching materials organized in the spirit of a software project, because teaching *is* programming. And I *love* teaching and explaining as I'm learning while leaving a record beind, if only to help [externalize memory](https://usamo.wordpress.com/2015/03/14/writing/).
 
-* [bl.ocks.org](http://bl.ocks.org/bmershon) for interactive visuals, code snippets, and [bite-sized explainers](https://bl.ocks.org/bmershon/372fe12a6d2b560513b3aa8d6c5a4b31). Often made [to teach myself](https://bl.ocks.org/bmershon/d332ba9b06975562979efba7b367e162). These are updated frequently and more often than not reflect a day's effort at playing with a new idea. As in the spirit of Mike Bostock's examples, these "blocks" are a great way to crack a larger project into several smaller self-contained concept-explainers. It's a good day when I can upload another one of these.
+* [bl.ocks.org](http://bl.ocks.org/bmershon) for interactive visuals, code snippets, and [bite-sized explainers](https://bl.ocks.org/bmershon/372fe12a6d2b560513b3aa8d6c5a4b31). Often made [to teach myself](https://bl.ocks.org/bmershon/d332ba9b06975562979efba7b367e162). These are updated frequently and more often than not reflect a day's effort at playing with a new idea. In the same veign as Mike Bostock's [examples](https://bost.ocks.org/mike/example/), these *blocks* help me to break a larger project into smaller self-contained explainers. It's a good day when I can upload another one of these; like with building blocks, these tend to be part of larger and more involved structures down the line.
 
 ## [Catalog](https://github.com/bmershon/catalog/wiki)
 
