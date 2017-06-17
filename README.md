@@ -60,7 +60,7 @@
 
 ## [Camera](https://www.flickr.com/photos/brooksmershon/albums)
 
-Canon 6D and a 40mm pancake lens. Or an iPhone if that's what's handy.
+Canon 6D and a 40mm pancake lens. Or iPhone.
 
 -------
 
