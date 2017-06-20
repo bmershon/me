@@ -54,6 +54,12 @@
 
 * [bl.ocks.org](http://bl.ocks.org/bmershon) for interactive visuals, code snippets, and [bite-sized explainers](https://bl.ocks.org/bmershon/372fe12a6d2b560513b3aa8d6c5a4b31). Often made [to teach myself](https://bl.ocks.org/bmershon/d332ba9b06975562979efba7b367e162). These are updated frequently and more often than not reflect a day's effort at playing with a new idea. In the same veign as Mike Bostock's [examples](https://bost.ocks.org/mike/example/), these *blocks* help me to break a larger project into smaller self-contained explainers. It's a good day when I can upload another one of these; like building blocks, these tend to be part of larger and more involved structures.
 
+## [Essays](https://medium.com/me/stories/public)
+
+* [Flickr](https://medium.com/@BrooksMershon/flickr-d1d7eb09d5c6)
+* [Wendi](https://medium.com/@BrooksMershon/wendi-d77df4c6126f)
+* [SIGGRAPH 2016 - A Wide Eyed Account](https://medium.com/@BrooksMershon/siggraph-2016-a-wide-eyed-account-24a5677b2c7a)
+
 ## [Catalog](https://github.com/bmershon/catalog/wiki)
 
 [Books](https://github.com/bmershon/fieldnotes/wiki/Nonfiction-Books), [essays](https://github.com/bmershon/fieldnotes/wiki/Essays), [films](https://github.com/bmershon/fieldnotes/wiki/Films) and [other resources](https://github.com/bmershon/fieldnotes/wiki/Technical-Writing) I have found to be particularly great or enriching. Updated frequently.
