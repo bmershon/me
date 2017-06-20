@@ -56,6 +56,8 @@
 
 ## [Essays](https://medium.com/me/stories/public)
 
+*selected*
+
 * [Flickr](https://medium.com/@BrooksMershon/flickr-d1d7eb09d5c6)
 * [Wendi](https://medium.com/@BrooksMershon/wendi-d77df4c6126f)
 * [SIGGRAPH 2016 - A Wide Eyed Account](https://medium.com/@BrooksMershon/siggraph-2016-a-wide-eyed-account-24a5677b2c7a)
