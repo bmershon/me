@@ -56,7 +56,7 @@
 
 ## [Essays](https://medium.com/me/stories/public)
 
-*selected*
+*selected entries*
 
 * [Flickr](https://medium.com/@BrooksMershon/flickr-d1d7eb09d5c6)
 * [Wendi](https://medium.com/@BrooksMershon/wendi-d77df4c6126f)
