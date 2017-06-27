@@ -1,5 +1,8 @@
 # Brooks Mershon
 
+<a name="project-euler-202" href="#project-euler-202">#</a><b> [SPOILER] Project Euler #202</b>
+<a href="https://bl.ocks.org/bmershon/981e4e36037daa53a9d260ce4b5450a0"><img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/project-euler/teaser.png" width="100%" alt="Project Euler #202"></a>
+
 <a name="little-schemer" href="#little-schemer">#</a><b> The Little Schemer Code</b>
 <a href="https://github.com/bmershon/little-schemer"><img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/little-schemer/teaser.png" width="100%" alt="The Little Schemer [code]"></a>
 
