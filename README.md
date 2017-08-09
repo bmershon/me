@@ -71,7 +71,9 @@
 
 ## [Camera](https://www.flickr.com/photos/brooksmershon/albums)
 
-Canon 6D and a 40mm pancake lens. Or iPhone. Until Flickr dies, that's where I [share my photos](https://www.flickr.com/people/brooksmershon/). Sometimes I upload a [video](https://vimeo.com/bmershon) if stills just won't cut it.
+Canon 6D and a 40mm pancake lens. Or iPhone. Until Flickr dies, that's where I [share my photos](https://www.flickr.com/people/brooksmershon/).
+
+Sometimes I upload a [video](https://vimeo.com/bmershon) if stills just won't cut it.
 
 -------
 
