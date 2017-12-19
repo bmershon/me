@@ -73,7 +73,7 @@
 
 Canon 6D and a 40mm pancake lens. Or iPhone. Until Flickr dies, that's where I [share my photos](https://www.flickr.com/people/brooksmershon/).
 
-Sometimes I upload a [video](https://vimeo.com/bmershon) if stills just won't cut it.
+Sometimes I upload a video on [YouTube](https://www.youtube.com/channel/UCPgjrNcZLa9hZ_tPYRI1pcQ) or [Vimdeo](https://vimeo.com/bmershon) if stills just won't cut it.
 
 -------
 
