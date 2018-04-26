@@ -51,6 +51,12 @@
 <a name="Flickr" href="#Flickr">#</a><b> Flickr [[Medium](https://medium.com/@MershonBrooks/flickr-d1d7eb09d5c6#.tt1jo7ern)]</b>
 <a href="https://medium.com/@MershonBrooks/flickr-d1d7eb09d5c6#.tt1jo7ern"><img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/flickr/teaser.png" width="100%" alt="Chain Fence and Spinning Can"></a>
 
+## Aviation
+
+I currently hold an FAA Private Pilot License with ratings for glider and airplane single engine land (ASEL). I fly out of Boulder and Longmont municipal airports.
+
+I will begin flying commercial glider touring rides at Mile High Gliding during the summer of 2018. I am continuing to progress in aerobatic training and will soon begin training towards an instrument rating. 
+
 ## [Code](https://github.com/bmershon)
 
 * [GitHub repositories](https://github.com/bmershon) for longer projects. Some repos are actually teaching materials organized in the spirit of a software project, because teaching *is* programming. And I *love* teaching and explaining as I'm learning while leaving a record beind, if only to help [externalize memory](https://usamo.wordpress.com/2015/03/14/writing/).
