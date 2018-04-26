@@ -51,7 +51,7 @@
 <a name="Flickr" href="#Flickr">#</a><b> Flickr [[Medium](https://medium.com/@MershonBrooks/flickr-d1d7eb09d5c6#.tt1jo7ern)]</b>
 <a href="https://medium.com/@MershonBrooks/flickr-d1d7eb09d5c6#.tt1jo7ern"><img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/flickr/teaser.png" width="100%" alt="Chain Fence and Spinning Can"></a>
 
-## Aviation
+## [Aviation](https://www.flickr.com/photos/brooksmershon/albums/72157669377319182)
 
 I currently hold an FAA Private Pilot License with ratings for glider and airplane single engine land (ASEL). I fly out of Boulder and Longmont municipal airports.
 
