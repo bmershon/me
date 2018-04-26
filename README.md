@@ -53,7 +53,7 @@
 
 ## [Aviation](https://www.flickr.com/photos/brooksmershon/albums/72157669377319182)
 
-I currently hold an FAA Private Pilot License with ratings for glider and airplane single engine land (ASEL). I fly out of Boulder and Longmont municipal airports.
+I currently hold an FAA Private Pilot License with ratings for glider and airplane single engine land (ASEL). I regularly fly out of Boulder and Longmont.
 
 I will begin flying commercial glider touring rides at Mile High Gliding during the summer of 2018. I am continuing to progress in aerobatic training and will soon begin training towards an instrument rating. 
 
