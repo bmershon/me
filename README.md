@@ -53,8 +53,9 @@
 
 ## [Aviation](https://www.flickr.com/photos/brooksmershon/albums/72157669377319182)
 
-* FAA Private Pilot Certificate with ratings for glider and airplane single engine land (ASEL).
-* Currently undergoing intensive aerobatic training at Longmont Municipal Airport.
+* Commercial Pilot glider; private pilot privileges (airplane single engine land).
+* Own and operate an experimental Van's Aircraft RV-6 out of Longmont Airport. Cruises at ~200 mph.
+* 3rd place in primary category at first aerobatic competition (Ben Lowell & IAC West Open Championship). 180hp Super Decathlon.
 
 ## [Code](https://github.com/bmershon)
 
