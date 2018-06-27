@@ -53,7 +53,7 @@
 
 ## [Aviation](https://www.flickr.com/photos/brooksmershon/albums/72157669377319182)
 
-* Commercial Pilot glider; private pilot privileges (airplane single engine land).
+* Commercial Pilot glider; private pilot privileges (airplane single engine land). Tailwheel endorsement.
 * Own and operate an experimental Van's Aircraft RV-6 out of Longmont Airport. Cruises at ~200 mph.
 * 3rd place in primary category at first aerobatic competition (Ben Lowell & IAC West Open Championship). 180hp Super Decathlon.
 
