@@ -67,10 +67,13 @@
 * Schweizer 2-32
 * Grob 103 Twin III Acro
 
-**Powered**
+**Experimental**
 
 * Super Decathlon
 * RV-6
+
+**Certified**
+
 * Cessna 172
 * Cessna 152
 
