@@ -74,6 +74,17 @@
 * Cessna 172
 * Cessna 152
 
+*Aircraft I have flown "right seat" in:*
+
+**Experimental**
+
+* Cozy MK-IV
+* RV-8
+* RV-7
+* RV-4
+* Bücker Bü 131 "Jungmann"
+* Giles 202
+
 ## [Code](https://github.com/bmershon)
 
 * [GitHub repositories](https://github.com/bmershon) for longer projects. Some repos are actually teaching materials organized in the spirit of a software project, because teaching *is* programming. And I *love* teaching and explaining as I'm learning while leaving a record beind, if only to help [externalize memory](https://usamo.wordpress.com/2015/03/14/writing/).
