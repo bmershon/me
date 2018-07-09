@@ -61,13 +61,13 @@
 
 *Aircraft I have flown solo:*
 
-** Gliders/Sailplanes **
+**Gliders/Sailplanes**
 
 * Schweizer 2-33
 * Schweizer 2-32
 * Grob 103 Twin III Acro
 
-** Powered **
+**Powered**
 
 * Super Decathlon
 * RV-6
