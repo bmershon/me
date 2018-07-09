@@ -57,6 +57,23 @@
 * Own and operate an experimental Van's Aircraft RV-6 out of Longmont Airport. Cruises at ~200 mph.
 * 3rd place in primary category at first aerobatic competition (Ben Lowell & IAC West Open Championship). 180hp Super Decathlon.
 
+### Type Hunter
+
+*Aircraft I have flown solo:*
+
+** Gliders/Sailplanes **
+
+* Schweizer 2-33
+* Schweizer 2-32
+* Grob 103 Twin III Acro
+
+** Powered **
+
+* Super Decathlon
+* RV-6
+* Cessna 172
+* Cessna 152
+
 ## [Code](https://github.com/bmershon)
 
 * [GitHub repositories](https://github.com/bmershon) for longer projects. Some repos are actually teaching materials organized in the spirit of a software project, because teaching *is* programming. And I *love* teaching and explaining as I'm learning while leaving a record beind, if only to help [externalize memory](https://usamo.wordpress.com/2015/03/14/writing/).
