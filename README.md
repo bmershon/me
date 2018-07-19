@@ -123,4 +123,4 @@ _B.S. in Computer Science from Duke University (May 2016)_
 
 A PDF of my résumé can be found [here](https://github.com/bmershon/me/blob/master/documents/resume/mershon-resume.pdf).
 
-`mershon DOT brooks at gmail DOT com`
+`mershon DOT brooks AT gmail DOT com`
