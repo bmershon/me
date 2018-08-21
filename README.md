@@ -66,27 +66,17 @@
 
 ### Type Hunter
 
-*Aircraft I have flown solo:*
-
-**Gliders/Sailplanes**
+*Aircraft I am checked out in:*
 
 * Schweizer 2-33
 * Schweizer 2-32
 * Grob 103 Twin III Acro
-
-**Experimental**
-
 * Super Decathlon
 * RV-6
-
-**Certified**
-
 * Cessna 172
 * Cessna 152
 
-*Aircraft I have flown "right seat" in:*
-
-**Experimental**
+*Other Aircraft I have wiggled the stick in:*
 
 * Cozy MK-IV
 * RV-8
