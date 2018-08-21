@@ -59,8 +59,8 @@
 
 ## [Aviation](https://www.flickr.com/photos/brooksmershon/albums/72157669377319182)
 
-* Commercial Pilot [glider].
-* Private pilot privileges [airplane single engine land].
+* Commercial Pilot {glider}.
+* Private pilot privileges {airplane single engine land}.
 * Own and operate an experimental Van's Aircraft RV-6 out of Longmont Airport.
 * 3rd place, third flight in primary at the Ben Lowell & IAC West Open Championship. 180hp Super Decathlon.
 
