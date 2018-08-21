@@ -1,5 +1,7 @@
 # Brooks Mershon
 
+[*Twitter →*](https://twitter.com/bgmershon)
+
 <a href="https://twitter.com/bgmershon"><img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/me/brooks-rv6.png" width="100%" alt="Brooks Mershon flying Kismet (Van's Aircraft RV-6)"></a>
 
 <a name="grid-cycles" href="#grid-cycles">#</a><b> Grid Cycles</b>
