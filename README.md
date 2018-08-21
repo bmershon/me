@@ -4,7 +4,7 @@
 
 <a href="https://twitter.com/bgmershon"><img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/me/brooks-rv6.png" width="100%" alt="Brooks Mershon flying Kismet (Van's Aircraft RV-6)"></a>
 
-## [Projects](https://www.flickr.com/photos/brooksmershon/albums/72157669377319182)
+## [Projects](https://github.com/bmershon)
 
 <a name="grid-cycles" href="#grid-cycles">#</a><b> Grid Cycles</b>
 <a href="https://bl.ocks.org/bmershon/67a9e48a3718d1ec1e81a240f51b6101/"><img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/grid-cycles/teaser.png" width="100%" alt="Grid Cycles"></a>
