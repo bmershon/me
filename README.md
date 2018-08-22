@@ -59,6 +59,8 @@
 
 ## [Aviation](https://www.flickr.com/photos/brooksmershon/albums/72157669377319182)
 
+<img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/me/rv6-sunset.jpg" width="100%" alt="Kismet (Van's Aircraft RV-6)">
+
 * Commercial Pilot {glider}.
 * Private pilot privileges {airplane single engine land}.
 * Own and operate an experimental Van's Aircraft RV-6 out of Longmont Airport.
