@@ -63,7 +63,7 @@
 
 * Commercial Pilot {glider}.
 * Private pilot privileges {airplane single engine land}.
-* Own and operate an experimental Van's Aircraft RV-6 out of Longmont Airport.
+* Own and operate an experimental Van's Aircraft RV-6 (N134JB) out of Longmont Airport.
 * 3rd place, third flight in primary at the Ben Lowell & IAC West Open Championship. 180hp Super Decathlon.
 
 ### Type Hunter
