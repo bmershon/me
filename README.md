@@ -1,6 +1,10 @@
 # Brooks Mershon
 
+[*Twitter →*](https://twitter.com/bgmershon)
+
 <a href="https://twitter.com/bgmershon"><img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/me/brooks-rv6.png" width="100%" alt="Brooks Mershon flying Kismet (Van's Aircraft RV-6)"></a>
+
+## [Projects](https://github.com/bmershon)
 
 <a name="grid-cycles" href="#grid-cycles">#</a><b> Grid Cycles</b>
 <a href="https://bl.ocks.org/bmershon/67a9e48a3718d1ec1e81a240f51b6101/"><img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/grid-cycles/teaser.png" width="100%" alt="Grid Cycles"></a>
@@ -55,33 +59,24 @@
 
 ## [Aviation](https://www.flickr.com/photos/brooksmershon/albums/72157669377319182)
 
-* Commercial Pilot (glider); private pilot privileges (airplane single engine land).
-* Own and operate an experimental Van's Aircraft RV-6 out of Longmont Airport. Cruises at ~200 mph.
-* 3rd place in primary category at first aerobatic competition (Ben Lowell & IAC West Open Championship). 180hp Super Decathlon.
+* Commercial Pilot {glider}.
+* Private pilot privileges {airplane single engine land}.
+* Own and operate an experimental Van's Aircraft RV-6 out of Longmont Airport.
+* 3rd place, third flight in primary at the Ben Lowell & IAC West Open Championship. 180hp Super Decathlon.
 
 ### Type Hunter
 
-*Aircraft I have flown solo:*
-
-**Gliders/Sailplanes**
+*Aircraft I am checked out in:*
 
 * Schweizer 2-33
 * Schweizer 2-32
 * Grob 103 Twin III Acro
-
-**Experimental**
-
 * Super Decathlon
 * RV-6
-
-**Certified**
-
 * Cessna 172
 * Cessna 152
 
-*Aircraft I have flown "right seat" in:*
-
-**Experimental**
+*Other Aircraft I have wiggled the stick in:*
 
 * Cozy MK-IV
 * RV-8
