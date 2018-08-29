@@ -2,7 +2,7 @@
 
 _Currently working [@SketchUp](https://twitter.com/SketchUp)_
 
-[Twitter for current goings-on →](https://twitter.com/bgmershon)
+[Twitter for current things →](https://twitter.com/bgmershon)
 
 [Résumé [PDF]](https://github.com/bmershon/me/blob/master/documents/resume/mershon-resume.pdf)
 
