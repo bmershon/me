@@ -1,6 +1,6 @@
 # Brooks Mershon
 
-_Currently working_ [@SketchUp](https://twitter.com/SketchUp)
+_Currently working_ [@SketchUp](https://twitter.com/SketchUp) and [Mile High Gliding](http://www.milehighgliding.com/)
 
 [Twitter for current things →](https://twitter.com/bgmershon)
 
