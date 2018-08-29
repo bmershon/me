@@ -1,6 +1,6 @@
 # Brooks Mershon
 
-Currently working [@SketchUp](https://twitter.com/SketchUp)
+_Currently working_ [@SketchUp](https://twitter.com/SketchUp)
 
 [Twitter for current things →](https://twitter.com/bgmershon)
 
