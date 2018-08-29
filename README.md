@@ -65,7 +65,7 @@ _Currently working [@SketchUp](https://twitter.com/SketchUp)_
 
 <img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/me/rv6-aerobatics.jpg" width="100%" alt="Kismet (Van's Aircraft RV-6)">
 
-* Commercial Pilot; glider.
+* Commercial Pilot; Glider.
 * Private pilot privileges; Airplane Single Engine Land.
 * Own and operate an experimental Van's Aircraft RV-6 (N134JB) out of Longmont Airport.
 * 3rd place, third flight in primary at the Ben Lowell & IAC West Open Championship. 180hp Super Decathlon.
@@ -114,6 +114,6 @@ _Currently working [@SketchUp](https://twitter.com/SketchUp)_
 
 ## [Camera](https://www.flickr.com/photos/brooksmershon/albums)
 
-Canon 6D and a 40mm pancake lens. Or iPhone. [I share my photos on Flickr.](https://www.flickr.com/people/brooksmershon/)
+[I share my photos on Flickr.](https://www.flickr.com/people/brooksmershon/)
 
 Sometimes I upload a video on [YouTube](https://www.youtube.com/channel/UCPgjrNcZLa9hZ_tPYRI1pcQ) or [Vimeo](https://vimeo.com/bmershon) if stills just won't cut it.
