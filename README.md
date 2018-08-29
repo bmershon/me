@@ -1,6 +1,8 @@
 # Brooks Mershon
 
-[*Twitter for current goings-on →*](https://twitter.com/bgmershon)
+_Currently working [@SketchUp](https://twitter.com/SketchUp)._
+
+[*witter for current goings-on →](https://twitter.com/bgmershon)
 
 [Résumé [PDF]](https://github.com/bmershon/me/blob/master/documents/resume/mershon-resume.pdf)
 
@@ -115,13 +117,3 @@
 Canon 6D and a 40mm pancake lens. Or iPhone. [I share my photos on Flickr.](https://www.flickr.com/people/brooksmershon/)
 
 Sometimes I upload a video on [YouTube](https://www.youtube.com/channel/UCPgjrNcZLa9hZ_tPYRI1pcQ) or [Vimeo](https://vimeo.com/bmershon) if stills just won't cut it.
-
--------
-
-_Currently working [@SketchUp](https://twitter.com/SketchUp)._
-
-_B.S. in Computer Science from Duke University (May 2016)_
-
-A PDF of my résumé can be found [here](https://github.com/bmershon/me/blob/master/documents/resume/mershon-resume.pdf).
-
-`mershon DOT brooks AT gmail DOT com`
