@@ -2,7 +2,7 @@
 
 _Currently working_ [@SketchUp](https://twitter.com/SketchUp) and [Mile High Gliding](http://www.milehighgliding.com/)
 
-[Twitter for current things →](https://twitter.com/bgmershon)
+[Twitter for current things](https://twitter.com/bgmershon)
 
 [Résumé [PDF]](https://github.com/bmershon/me/blob/master/documents/resume/mershon-resume.pdf)
 
