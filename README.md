@@ -4,6 +4,8 @@ _Currently working_ [@SketchUp](https://twitter.com/SketchUp) and [Mile High Gli
 
 [Twitter for current things](https://twitter.com/bgmershon)
 
+[Flickr for photos](https://www.flickr.com/photos/brooksmershon/)
+
 [Résumé [PDF]](https://github.com/bmershon/me/blob/master/documents/resume/mershon-resume.pdf)
 
 <a href="https://twitter.com/bgmershon"><img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/me/brooks-rv6.png" width="100%" alt="Brooks Mershon flying Kismet (Van's Aircraft RV-6)"></a>
