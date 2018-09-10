@@ -4,6 +4,8 @@ _Currently working_ [@SketchUp](https://twitter.com/SketchUp) and [Mile High Gli
 
 [Twitter for current things](https://twitter.com/bgmershon)
 
+[Reading 📚](https://github.com/bmershon/catalog/wiki)
+
 [Flickr 📷](https://www.flickr.com/photos/brooksmershon/)
 
 [YouTube 🎥](https://www.youtube.com/user/BrooksMershon/featured)
