@@ -103,6 +103,11 @@ _Currently working_ [@SketchUp](https://twitter.com/SketchUp) and [Mile High Gli
 
 * [Observable Notebooks](https://beta.observablehq.com/@bmershon). I have recently started producing interactive educational content on this platform in parallel with the material that I am currently self-studying. I learn best by examples. [Observable](https://beta.observablehq.com/) helps me build examples that keep on giving to both myself and others.
 
+## Publications
+
+* [Static and Interactive illustrations for The Washington Post](https://github.com/bmershon/washington-post-graphics/blob/master/README.md) produced while working as an intern during the summer of 2015.
+* [Pratt Education: The Online Revolution](https://dukelibraries.contentdm.oclc.org/digital/collection/p15957coll16/id/9206) in Duke Engineer Magazine (2013).
+
 ## [Essays](https://medium.com/me/stories/public)
 
 *selected entries*
