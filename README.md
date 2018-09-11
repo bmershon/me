@@ -107,7 +107,7 @@ _Currently working_ [@SketchUp](https://twitter.com/SketchUp) and [Mile High Gli
 
 ## Publications
 
-* [Static and Interactive illustrations](https://github.com/bmershon/washington-post-graphics/blob/master/README.md) produced while working as an intern during the summer of 2015 in graphics department of The Washington Post.
+* [Static and Interactive illustrations](https://github.com/bmershon/washington-post-graphics/blob/master/README.md) for The Washington Post.
 * [Pratt Education: The Online Revolution](https://dukelibraries.contentdm.oclc.org/digital/collection/p15957coll16/id/9206) in Duke Engineer Magazine (2013).
 
 ## [Essays](https://medium.com/me/stories/public)
