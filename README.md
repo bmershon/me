@@ -71,8 +71,8 @@ _Currently working_ [@SketchUp](https://twitter.com/SketchUp) and [Mile High Gli
 
 <img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/me/rv6-aerobatics.jpg" width="100%" alt="Kismet (Van's Aircraft RV-6)">
 
-* Commercial Pilot; Glider.
-* Private pilot privileges; Airplane Single Engine Land.
+* Commercial Pilot: Glider.
+* Private pilot privileges: Airplane Single Engine Land.
 * Own and operate an experimental Van's Aircraft RV-6 (N134JB) out of Longmont Airport.
 * 3rd place, third flight in primary at the Ben Lowell & IAC West Open Championship. 180hp Super Decathlon.
 
