@@ -97,7 +97,7 @@ _Currently working_ [@SketchUp](https://twitter.com/SketchUp) and [Mile High Gli
 * Bücker Bü 131 "Jungmann"
 * Giles 202
 
-## [Code](https://github.com/bmershon)
+## [💻 Code](https://github.com/bmershon)
 
 * [GitHub repositories](https://github.com/bmershon) for longer projects. Some repos are actually teaching materials organized in the spirit of a software project, because teaching *is* programming. And I *love* teaching and explaining as I'm learning while leaving a record beind, if only to help [externalize memory](https://usamo.wordpress.com/2015/03/14/writing/).
 
@@ -119,11 +119,11 @@ _Currently working_ [@SketchUp](https://twitter.com/SketchUp) and [Mile High Gli
 * [Wendi](https://medium.com/@BrooksMershon/wendi-d77df4c6126f)
 * [Flickr](https://medium.com/@BrooksMershon/flickr-d1d7eb09d5c6)
 
-## [Catalog](https://github.com/bmershon/catalog/wiki)
+## [📚 Catalog](https://github.com/bmershon/catalog/wiki)
 
 [Books](https://github.com/bmershon/fieldnotes/wiki/Nonfiction-Books), [essays](https://github.com/bmershon/fieldnotes/wiki/Essays), [films](https://github.com/bmershon/fieldnotes/wiki/Films) and [other resources](https://github.com/bmershon/fieldnotes/wiki/Technical-Writing) I have found to be particularly great or enriching. Updated frequently.
 
-## [Camera](https://www.flickr.com/photos/brooksmershon/albums)
+## [📷 Camera](https://www.flickr.com/photos/brooksmershon/albums)
 
 [I share my photos on Flickr.](https://www.flickr.com/people/brooksmershon/)
 
