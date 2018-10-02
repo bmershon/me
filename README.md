@@ -2,19 +2,19 @@
 
 _Currently working_ [@SketchUp](https://twitter.com/SketchUp) and [Mile High Gliding](http://www.milehighgliding.com/)
 
-[Twitter for current things](https://twitter.com/bgmershon)
+[→ Twitter for current things](https://twitter.com/bgmershon)
 
-[Reading 📚](https://github.com/bmershon/catalog/wiki)
+[→ Reading](https://github.com/bmershon/catalog/wiki)
 
-[Flickr 📷](https://www.flickr.com/photos/brooksmershon/)
+[→ Flickr](https://www.flickr.com/photos/brooksmershon/)
 
-[YouTube 🎥](https://www.youtube.com/user/BrooksMershon/featured)
+[→ YouTube](https://www.youtube.com/user/BrooksMershon/featured)
 
-[Résumé<sup>[PDF]</sup>](https://github.com/bmershon/me/blob/master/documents/resume/mershon-resume.pdf)
+[→ Résumé<sup>[PDF]</sup>](https://github.com/bmershon/me/blob/master/documents/resume/mershon-resume.pdf)
 
 <a href="https://twitter.com/bgmershon"><img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/me/brooks-rv6.png" width="100%" alt="Brooks Mershon flying Kismet (Van's Aircraft RV-6)"></a>
 
-## [Projects](https://github.com/bmershon)
+## [🆕 Projects](https://github.com/bmershon)
 
 <a name="grid-cycles" href="#grid-cycles">#</a><b> Grid Cycles</b>
 <a href="https://bl.ocks.org/bmershon/67a9e48a3718d1ec1e81a240f51b6101/"><img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/grid-cycles/teaser.png" width="100%" alt="Grid Cycles"></a>
@@ -67,7 +67,7 @@ _Currently working_ [@SketchUp](https://twitter.com/SketchUp) and [Mile High Gli
 <a name="Flickr" href="#Flickr">#</a><b> Flickr [[Medium](https://medium.com/@MershonBrooks/flickr-d1d7eb09d5c6#.tt1jo7ern)]</b>
 <a href="https://medium.com/@MershonBrooks/flickr-d1d7eb09d5c6#.tt1jo7ern"><img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/flickr/teaser.png" width="100%" alt="Chain Fence and Spinning Can"></a>
 
-## [Aviation](https://www.flickr.com/photos/brooksmershon/albums/72157669377319182)
+## [🛩️ Aviation](https://www.flickr.com/photos/brooksmershon/albums/72157669377319182)
 
 <img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/me/rv6-aerobatics.jpg" width="100%" alt="Kismet (Van's Aircraft RV-6)">
 
@@ -105,12 +105,12 @@ _Currently working_ [@SketchUp](https://twitter.com/SketchUp) and [Mile High Gli
 
 * [Observable Notebooks](https://beta.observablehq.com/@bmershon). I have recently started producing interactive educational content on this platform in parallel with the material that I am currently self-studying. I learn best by examples. [Observable](https://beta.observablehq.com/) helps me build examples that keep on giving to both myself and others.
 
-## Publications
+## [🌎 Publications](https://github.com/bmershon/washington-post-graphics/blob/master/README.md)
 
 * [Static and Interactive illustrations](https://github.com/bmershon/washington-post-graphics/blob/master/README.md) for The Washington Post.
 * [Pratt Education: The Online Revolution](https://dukelibraries.contentdm.oclc.org/digital/collection/p15957coll16/id/9206) in Duke Engineer Magazine (2013).
 
-## [Essays](https://medium.com/me/stories/public)
+## [📜 Essays](https://medium.com/me/stories/public)
 
 *selected entries*
 
