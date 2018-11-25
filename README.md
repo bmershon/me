@@ -1,6 +1,6 @@
 # Brooks Mershon
 
-_Currently working_ [@SketchUp](https://twitter.com/SketchUp) and [Mile High Gliding](http://www.milehighgliding.com/)
+I write code at [SketchUp](https://twitter.com/SketchUp) and fly planes at [Mile High Gliding](http://www.milehighgliding.com/)
 
 [→ Flickr](https://www.flickr.com/photos/brooksmershon/)
 
