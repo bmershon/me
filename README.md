@@ -67,7 +67,7 @@ I write code at [SketchUp](https://twitter.com/SketchUp) and fly planes at [Mile
 
 ## [🛩️ Aviation](https://www.flickr.com/photos/brooksmershon/albums/72157669377319182)
 
-<img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/me/44147206140_b8021bb077_k.jpg" width="100%" alt="Kismet (Van's Aircraft RV-6)">
+<img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/me/44147206140_6d7f6d7484_k.jpg" width="100%" alt="Kismet (Van's Aircraft RV-6)">
 
 * Commercial Pilot: Glider.
 * Private pilot privileges: Airplane Single Engine Land.
