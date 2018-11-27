@@ -123,7 +123,7 @@ I write code at [SketchUp](https://twitter.com/SketchUp) and fly planes at [Mile
 
 ## [📷 Camera](https://www.flickr.com/photos/brooksmershon/albums)
 
-[I share my photos on Flickr (constantly).](https://www.flickr.com/photos/brooksmershon/)
+I frequently push new photos to [Flickr](https://www.flickr.com/photos/brooksmershon/).
 
 Sometimes I upload (mostly flying) videos on [YouTube](https://www.youtube.com/channel/UCPgjrNcZLa9hZ_tPYRI1pcQ).
 
