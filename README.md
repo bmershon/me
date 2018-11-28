@@ -1,10 +1,18 @@
 # Brooks Mershon
 
-[*Twitter →*](https://twitter.com/bgmershon)
+I write code at [SketchUp](https://twitter.com/SketchUp) and fly planes at [Mile High Gliding](http://www.milehighgliding.com/)
+
+[→ Flickr](https://www.flickr.com/photos/brooksmershon/)
+
+[→ YouTube](https://www.youtube.com/user/BrooksMershon/featured)
+
+[→ Reading](https://github.com/bmershon/catalog/wiki)
+
+[→ Résumé<sup>[PDF]</sup>](https://github.com/bmershon/me/blob/master/documents/resume/mershon-resume.pdf)
 
 <a href="https://twitter.com/bgmershon"><img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/me/brooks-rv6.png" width="100%" alt="Brooks Mershon flying Kismet (Van's Aircraft RV-6)"></a>
 
-## [Projects](https://github.com/bmershon)
+## [🆕 Projects](https://github.com/bmershon)
 
 <a name="grid-cycles" href="#grid-cycles">#</a><b> Grid Cycles</b>
 <a href="https://bl.ocks.org/bmershon/67a9e48a3718d1ec1e81a240f51b6101/"><img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/grid-cycles/teaser.png" width="100%" alt="Grid Cycles"></a>
@@ -57,13 +65,13 @@
 <a name="Flickr" href="#Flickr">#</a><b> Flickr [[Medium](https://medium.com/@MershonBrooks/flickr-d1d7eb09d5c6#.tt1jo7ern)]</b>
 <a href="https://medium.com/@MershonBrooks/flickr-d1d7eb09d5c6#.tt1jo7ern"><img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/flickr/teaser.png" width="100%" alt="Chain Fence and Spinning Can"></a>
 
-## [Aviation](https://www.flickr.com/photos/brooksmershon/albums/72157669377319182)
+## [🛩️ Aviation](https://www.flickr.com/photos/brooksmershon/albums/72157669377319182)
 
-<img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/me/rv6-sunset.jpg" width="100%" alt="Kismet (Van's Aircraft RV-6)">
+<img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/me/44147206140_6d7f6d7484_k.jpg" width="100%" alt="Kismet (Van's Aircraft RV-6)">
 
-* Commercial Pilot {glider}.
-* Private pilot privileges {airplane single engine land}.
-* Own and operate an experimental Van's Aircraft RV-6 out of Longmont Airport.
+* Commercial Pilot: Glider.
+* Private pilot privileges: Airplane Single Engine Land.
+* Own and operate an experimental Van's Aircraft RV-6 (N134JB) out of Longmont Airport.
 * 3rd place, third flight in primary at the Ben Lowell & IAC West Open Championship. 180hp Super Decathlon.
 
 ### Type Hunter
@@ -87,7 +95,7 @@
 * Bücker Bü 131 "Jungmann"
 * Giles 202
 
-## [Code](https://github.com/bmershon)
+## [💻 Code](https://github.com/bmershon)
 
 * [GitHub repositories](https://github.com/bmershon) for longer projects. Some repos are actually teaching materials organized in the spirit of a software project, because teaching *is* programming. And I *love* teaching and explaining as I'm learning while leaving a record beind, if only to help [externalize memory](https://usamo.wordpress.com/2015/03/14/writing/).
 
@@ -95,7 +103,12 @@
 
 * [Observable Notebooks](https://beta.observablehq.com/@bmershon). I have recently started producing interactive educational content on this platform in parallel with the material that I am currently self-studying. I learn best by examples. [Observable](https://beta.observablehq.com/) helps me build examples that keep on giving to both myself and others.
 
-## [Essays](https://medium.com/me/stories/public)
+## [🌎 Publications](https://github.com/bmershon/washington-post-graphics/blob/master/README.md)
+
+* [Static and Interactive illustrations](https://github.com/bmershon/washington-post-graphics/blob/master/README.md) for The Washington Post.
+* [Pratt Education: The Online Revolution](https://dukelibraries.contentdm.oclc.org/digital/collection/p15957coll16/id/9206) in Duke Engineer Magazine (2013).
+
+## [📜 Essays](https://medium.com/me/stories/public)
 
 *selected entries*
 
@@ -104,22 +117,14 @@
 * [Wendi](https://medium.com/@BrooksMershon/wendi-d77df4c6126f)
 * [Flickr](https://medium.com/@BrooksMershon/flickr-d1d7eb09d5c6)
 
-## [Catalog](https://github.com/bmershon/catalog/wiki)
+## [📚 Catalog](https://github.com/bmershon/catalog/wiki)
 
 [Books](https://github.com/bmershon/fieldnotes/wiki/Nonfiction-Books), [essays](https://github.com/bmershon/fieldnotes/wiki/Essays), [films](https://github.com/bmershon/fieldnotes/wiki/Films) and [other resources](https://github.com/bmershon/fieldnotes/wiki/Technical-Writing) I have found to be particularly great or enriching. Updated frequently.
 
-## [Camera](https://www.flickr.com/photos/brooksmershon/albums)
+## [📷 Camera](https://www.flickr.com/photos/brooksmershon/albums)
 
-Canon 6D and a 40mm pancake lens. Or iPhone. [I share my photos on Flickr.](https://www.flickr.com/people/brooksmershon/)
+I frequently push new photos to [Flickr](https://www.flickr.com/photos/brooksmershon/).
 
-Sometimes I upload a video on [YouTube](https://www.youtube.com/channel/UCPgjrNcZLa9hZ_tPYRI1pcQ) or [Vimeo](https://vimeo.com/bmershon) if stills just won't cut it.
+Sometimes I upload (mostly flying) videos on [YouTube](https://www.youtube.com/channel/UCPgjrNcZLa9hZ_tPYRI1pcQ).
 
--------
-
-_Currently working [@SketchUp](https://twitter.com/SketchUp)._
-
-_B.S. in Computer Science from Duke University (May 2016)_
-
-A PDF of my résumé can be found [here](https://github.com/bmershon/me/blob/master/documents/resume/mershon-resume.pdf).
-
-`mershon DOT brooks AT gmail DOT com`
+I've got some older nerdy videos from school on [Vimeo](https://vimeo.com/bmershon).
