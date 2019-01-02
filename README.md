@@ -78,7 +78,7 @@ I write code at [SketchUp](https://twitter.com/SketchUp) and fly planes at [Mile
 
 ### Type Hunter
 
-*Aircraft I am checked out in:*
+*Aircraft I have flown solo:*
 
 * Schweizer 2-33
 * Schweizer 2-32
@@ -88,7 +88,7 @@ I write code at [SketchUp](https://twitter.com/SketchUp) and fly planes at [Mile
 * Cessna 172
 * Cessna 152
 
-*Other Aircraft I have wiggled the stick in:*
+*Other Aircraft I have flown:*
 
 * Cozy MK-IV
 * RV-8
