@@ -125,8 +125,4 @@ I write code at [SketchUp](https://twitter.com/SketchUp) and fly planes at [Mile
 
 ## [📷 Camera](https://www.flickr.com/photos/brooksmershon/albums)
 
-I frequently push new photos to [Flickr](https://www.flickr.com/photos/brooksmershon/).
-
-Sometimes I upload (mostly flying) videos on [YouTube](https://www.youtube.com/channel/UCPgjrNcZLa9hZ_tPYRI1pcQ).
-
-I've got some older nerdy videos from school on [Vimeo](https://vimeo.com/bmershon).
+[Flickr](https://www.flickr.com/photos/brooksmershon/), [YouTube](https://www.youtube.com/channel/UCPgjrNcZLa9hZ_tPYRI1pcQ), [Vimeo](https://vimeo.com/bmershon).
