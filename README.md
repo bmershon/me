@@ -1,6 +1,6 @@
 # Brooks Mershon
 
-I run [Mile High Gliding](http://www.milehighgliding.com/).
+I run [Mile High Gliding](https://www.facebook.com/milehighglidinginc/)
 
 [→ Flickr](https://www.flickr.com/photos/brooksmershon/)
 
