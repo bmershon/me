@@ -2,7 +2,7 @@
 
 I run [Mile High Gliding](https://www.facebook.com/milehighglidinginc/), where we provide sailplane touring rides, rentals, and flight instruction.
 
-[→ Garmin Map Share (for tracking my flight)](https://share.garmin.com/share/bgm)
+[→ Flight Tracking](https://share.garmin.com/share/bgm)
 
 [→ Flickr](https://www.flickr.com/photos/brooksmershon/)
 
