@@ -1,6 +1,6 @@
 # Brooks Mershon
 
-I run [Mile High Gliding](https://www.facebook.com/milehighglidinginc/), where we provide scenic sailplane rides and [flight instruction](https://github.com/bmershon/flight-instruction/wiki).
+I currently manage and fly planes at [Mile High Gliding](https://www.facebook.com/milehighglidinginc/), where we provide scenic sailplane rides and [flight instruction](https://github.com/bmershon/flight-instruction/wiki).
 
 [→ Flickr](https://www.flickr.com/photos/brooksmershon/)
 
