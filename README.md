@@ -71,9 +71,9 @@ I currently manage and fly planes at [Mile High Gliding](https://www.facebook.co
 
 <img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/me/44147206140_6d7f6d7484_k.jpg" width="100%" alt="Kismet (Van's Aircraft RV-6)">
 
-* Commercial Pilot: Glider.
+* Flight Instructor: Glider.
 * Private pilot privileges: Airplane Single Engine Land.
-* Own and operate an experimental Van's Aircraft RV-6 (N134JB) out of Longmont Airport.
+* Own, maintain, and operate an experimental Van's Aircraft RV-6 (N134JB) based at Vance Brand Airport (Longmont).
 * 3rd place, third flight in primary at the Ben Lowell & IAC West Open Championship. 180hp Super Decathlon.
 
 ### Type Hunter
