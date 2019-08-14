@@ -71,31 +71,10 @@ I currently run [Mile High Gliding](https://www.facebook.com/milehighglidinginc/
 
 <img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/me/44147206140_6d7f6d7484_k.jpg" width="100%" alt="Kismet (Van's Aircraft RV-6)">
 
-* Flight Instructor: Glider.
-* Private pilot privileges: Airplane Single Engine Land.
-* Own, maintain, and operate an experimental Van's Aircraft RV-6 (N134JB) based at Vance Brand Airport (Longmont).
-* 3rd place, third flight in primary at the Ben Lowell & IAC West Open Championship. 180hp Super Decathlon.
-
-### Type Hunter
-
-*Aircraft I have flown solo:*
-
-* Schweizer 2-33
-* Schweizer 2-32
-* Grob 103 Twin III Acro
-* Super Decathlon
-* RV-6
-* Cessna 172
-* Cessna 152
-
-*Other Aircraft I have flown:*
-
-* Cozy MK-IV
-* RV-8
-* RV-7
-* RV-4
-* Bücker Bü 131 "Jungmann"
-* Giles 202
+- Commercial Pilot (Glider)
+- Flight Instructor (Glider)
+- Private Pilot (ASEL)
+- Tailwheel (300+ hrs)
 
 ## [💻 Code](https://github.com/bmershon)
 
