@@ -71,10 +71,10 @@ I currently run [Mile High Gliding](https://www.facebook.com/milehighglidinginc/
 
 <img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/me/44147206140_6d7f6d7484_k.jpg" width="100%" alt="Kismet (Van's Aircraft RV-6)">
 
-- Commercial Pilot (Glider)
+- Commercial Pilot (Glider, ASEL)
 - Flight Instructor (Glider)
-- Private Pilot (ASEL)
 - Tailwheel (300+ hrs)
+- Significant PIC time in RV-6, Super Cub, Schweizer 2-32 (glider), Schweizer 2-33
 
 ## [💻 Code](https://github.com/bmershon)
 
