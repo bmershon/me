@@ -74,7 +74,7 @@ I currently run [Mile High Gliding](https://www.facebook.com/milehighglidinginc/
 - Commercial Pilot (Glider, ASEL)
 - Flight Instructor (Glider)
 - Tailwheel (300+ hrs)
-- Significant PIC time in RV-6, Super Cub, Schweizer 2-32 (glider), Schweizer 2-33
+- Significant PIC time in RV-6, Super Cub, Schweizer 2-32
 
 ## [💻 Code](https://github.com/bmershon)
 
