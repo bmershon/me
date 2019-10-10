@@ -1,6 +1,7 @@
 # Brooks Mershon
 
 EAA 1271516
+
 IAC 440213
 
 I currently run [Mile High Gliding](https://www.facebook.com/milehighglidinginc/), where we provide scenic sailplane rides and [flight instruction](https://github.com/bmershon/flight-instruction/wiki).
