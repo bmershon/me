@@ -1,9 +1,5 @@
 # Brooks Mershon
 
-EAA 1271516
-
-IAC 440213
-
 I currently run [Mile High Gliding](https://www.facebook.com/milehighglidinginc/), where we provide scenic sailplane rides and [flight instruction](https://github.com/bmershon/flight-instruction/wiki).
 
 [→ Flickr](https://www.flickr.com/photos/brooksmershon/)
@@ -15,6 +11,8 @@ I currently run [Mile High Gliding](https://www.facebook.com/milehighglidinginc/
 [→ Reading](https://github.com/bmershon/catalog/wiki)
 
 [→ Résumé<sup>[PDF]</sup>](https://github.com/bmershon/me/blob/master/documents/resume/mershon-resume.pdf)
+
+EAA 1271516 | IAC 440213
 
 <a href="https://twitter.com/bgmershon"><img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/me/brooks-rv6.png" width="100%" alt="Brooks Mershon flying Kismet (Van's Aircraft RV-6)"></a>
 
