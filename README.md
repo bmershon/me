@@ -16,7 +16,7 @@ I used to write code... I still do, too.
 
 EAA 1271516 | IAC 440213
 
-<a href="https://twitter.com/bgmershon"><img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/me/brooks-rv6.png" width="100%" alt="Brooks Mershon flying Kismet (Van's Aircraft RV-6)"></a>
+<a href="https://twitter.com/bgmershon"><img src="https://raw.githubusercontent.com/bmershon/me/master/img/me/MVIMG_20191025_165624.jpg" width="100%" alt="Brooks Mershon flying Kismet (Van's Aircraft RV-6)"></a>
 
 ## [🆕 Projects](https://github.com/bmershon)
 
