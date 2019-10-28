@@ -1,6 +1,6 @@
 # Brooks Mershon
 
-<a href="https://www.flickr.com/photos/brooksmershon/"><img src="https://raw.githubusercontent.com/bmershon/me/master/img/me/MVIMG_20191025_165624.jpg" width="100%" alt="Clicking this will take you to my Flickr page!"></a>
+<a href="https://www.flickr.com/photos/brooksmershon/"><img src="https://raw.githubusercontent.com/bmershon/me/master/img/me/Frame%201.png" width="100%" alt="Clicking this will take you to my Flickr page!"></a>
 
 I currently run [Mile High Gliding](https://www.facebook.com/milehighglidinginc/), where we provide scenic sailplane rides and [flight instruction](https://github.com/bmershon/flight-instruction/wiki).
 
