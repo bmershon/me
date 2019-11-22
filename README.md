@@ -79,7 +79,7 @@ EAA 1271516 | IAC 440213
 - Flight Instructor (Glider)
 - Tailwheel (300+ hrs)
 - Significant PIC time in RV-6, Super Cub, Schweizer 2-32
-- Owned RV-6, Skybolt 540 (big engined biplane)
+- Owned Skybolt 540 (10+ hours), RV-6 (290 hours)
 
 ## [💻 Code](https://github.com/bmershon)
 
