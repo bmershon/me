@@ -1,8 +1,8 @@
-## Brooks Mershon
+# Brooks Mershon
 
 I currently run [Mile High Gliding](https://www.facebook.com/milehighglidinginc/).
 
-I used to write code... I still do, too.
+I used to write code... [I still do, too](https://github.com/bmershon).
 
 [→ Flight Instruction](https://github.com/bmershon/flight-instruction/wiki)
 
