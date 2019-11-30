@@ -2,6 +2,8 @@
 ---
 @import "{{ site.theme }}";
 
+// Minimalist Theme overrides.
+
 section {
   float: none !important;
   width: 960px !important;
@@ -9,4 +11,8 @@ section {
 
 header {
   display: none;
+}
+
+footer {
+  position: static !important;
 }
