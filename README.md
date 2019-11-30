@@ -31,7 +31,7 @@ EAA 1271516 | IAC 440213
 <a href="https://github.com/bmershon/spivak-category-theory"><img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/category-theory/teaser.png" width="100%" alt="Category Theory"></a>
 
 <a name="siggraph-2016" href="#siggraph-2016">#</a><b> SIGGRAPH 2016: A Wide-Eyed Account [[PDF](https://github.com/bmershon/siggraph-2016/raw/master/main.pdf)] [[SRC](https://github.com/bmershon/siggraph-2016)]</b>
-<a href="https://medium.com/@BrooksMershon/siggraph-2016-a-wide-eyed-account-24a5677b2c7a#.wa98me5xr"><img src="https://github.com/bmershon/bmershon.github.io/master/img/siggraph-2016/teaser.png" width="100%" alt="SIGGRAPH 2016 Report"></a>
+<a href="https://medium.com/@BrooksMershon/siggraph-2016-a-wide-eyed-account-24a5677b2c7a#.wa98me5xr"><img src="https://github.com/bmershon/me/raw/master/img/siggraph-2016/teaser.png" width="100%" alt="SIGGRAPH 2016 Report"></a>
 
 <a name="hofstadter-sequences" href="#hofstadter-sequences">#</a><b> Hofstadter Sequences</b>
 <a href="http://bl.ocks.org/bmershon/372fe12a6d2b560513b3aa8d6c5a4b31"><img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/hofstadter-sequences/teaser.png" width="100%" alt="Hofstadter sequences"></a>
