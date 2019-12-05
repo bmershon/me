@@ -79,8 +79,8 @@ IAC 440213
 - Flight Instructor (Glider)
 - Tailwheel (300+ hrs)
 - Significant PIC time in RV-6, Super Cub, Schweizer 2-32
-- Own a Lycoming IO-540 powered Steen Skybolt 540,
-- Previously owned: RV-6 (290 hours)
+- Currenty own a 1976 Steen Skybolt powered by a Lycoming IO-540 (260 hp) baed at KLMO
+- Previously owned: 1993 Van's Aircraft RV-6 (~300 hours)
 
 ## [💻 Code](https://github.com/bmershon)
 
