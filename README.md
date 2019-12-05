@@ -14,7 +14,9 @@ I currently run [Mile High Gliding](https://www.facebook.com/milehighglidinginc/
 
 [→ Résumé<sup>[PDF]</sup>](https://github.com/bmershon/me/blob/master/documents/resume/mershon-resume.pdf)
 
-EAA 1271516 | IAC 440213
+EAA 1271516
+
+IAC 440213
 
 ## [🆕 Projects](https://github.com/bmershon)
 
