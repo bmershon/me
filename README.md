@@ -73,15 +73,13 @@ IAC 440213
 
 ## [🛩️ Aviation](https://www.flickr.com/photos/brooksmershon/albums/72157669377319182)
 
-<img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/me/44147206140_6d7f6d7484_k.jpg" width="100%" alt="Kismet (Van's Aircraft RV-6)">
-
 <img src="https://github.com/bmershon/me/raw/master/img/me/49171387421_d3dcf1b763_k.jpg" width="100%" alt="Steen Skybolt N23JG">
 
 - Commercial Pilot (Glider, ASEL)
 - Flight Instructor (Glider)
 - Tailwheel (300+ hrs)
 - Significant PIC time in RV-6, Super Cub, Schweizer 2-32
-- Currenty own a 1976 Steen Skybolt powered by a Lycoming IO-540 (260 hp) baed at KLMO
+- Currenty own a 1976 Steen Skybolt powered by a Lycoming IO-540 (260 hp) based at KLMO
 - Previously owned: [1993 Van's Aircraft RV-6 (~300 hours)](https://youtu.be/fOu5UpgnYKg)
 
 ## [💻 Code](https://github.com/bmershon)
