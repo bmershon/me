@@ -77,9 +77,8 @@ IAC 440213
 
 - Commercial Pilot (Glider, ASEL)
 - Flight Instructor (Glider)
-- Tailwheel (300+ hrs)
-- Significant PIC time in RV-6, Super Cub, Schweizer 2-32
-- Currenty own a 1976 Steen Skybolt powered by a Lycoming IO-540 (260 hp) based at KLMO
+- Tailwheel (360+ hrs)
+- Currenty own a 1976 Steen Skybolt powered by a Lycoming IO-540 (260 hp)
 - Previously owned: [1993 Van's Aircraft RV-6 (~300 hours)](https://youtu.be/fOu5UpgnYKg)
 
 ## [💻 Code](https://github.com/bmershon)
