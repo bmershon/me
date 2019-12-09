@@ -17,3 +17,9 @@ header {
 footer {
   position: static !important;
 }
+
+a:hover, a:focus {
+  color: unset;
+  font-weight: unset !important;
+  text-decoration: underline;
+}
