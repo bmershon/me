@@ -8,8 +8,6 @@ I currently run [Mile High Gliding](https://www.facebook.com/milehighglidinginc/
 
 [→ YouTube](https://www.youtube.com/user/BrooksMershon/featured)
 
-[→ Tweeter](https://twitter.com/bgmershon)
-
 [→ Reading](https://github.com/bmershon/catalog/wiki)
 
 [→ Résumé<sup>[PDF]</sup>](https://github.com/bmershon/me/blob/master/documents/resume/mershon-resume.pdf)
