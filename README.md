@@ -71,7 +71,7 @@ IAC 440213
 
 ## [🛩️ Aviation](https://www.flickr.com/photos/brooksmershon/albums/72157669377319182)
 
-<img src="https://github.com/bmershon/me/raw/master/img/me/brooks_mershon_social_card.png" width="100%" alt="Steen Skybolt N23JG">
+<img src="https://github.com/bmershon/me/raw/master/img/me/49135682537_23f7e753f3_k.jpg" width="100%" alt="Steen Skybolt N23JG">
 
 - Commercial Pilot (Glider, ASEL)
 - Flight Instructor (Glider)
