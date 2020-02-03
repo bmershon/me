@@ -76,6 +76,7 @@ IAC 440213
 <img src="https://github.com/bmershon/me/raw/master/img/me/49135682537_23f7e753f3_k.jpg" width="100%" alt="Steen Skybolt N23JG">
 
 - Commercial Pilot (Glider, ASEL)
+- Instrument (ASEL)
 - Flight Instructor (Glider)
 - Tailwheel (360+ hrs)
 - Currenty own a 1976 Steen Skybolt powered by a Lycoming IO-540 (260 hp).
