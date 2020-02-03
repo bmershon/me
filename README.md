@@ -78,7 +78,7 @@ IAC 440213
 - Commercial Pilot (Glider, ASEL)
 - Instrument (ASEL)
 - Flight Instructor (Glider)
-- Tailwheel (360+ hrs)
+- Tailwheel (370+ hrs)
 - Currenty own a 1976 Steen Skybolt powered by a Lycoming IO-540 (260 hp).
 - Previously owned:
   - [1993 Van's Aircraft RV-6 (~300 hours)](https://youtu.be/fOu5UpgnYKg)
