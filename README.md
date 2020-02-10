@@ -1,6 +1,6 @@
 # Brooks Mershon
 
-I run [Mile High Gliding](https://www.facebook.com/milehighgliding/). I used to write code... [I still do, too](https://github.com/bmershon).
+I run [Mile High Gliding](https://www.facebook.com/milehighgliding/) and [Boulder Pilot](https://www.boulderpilot.com). I used to write code... [I still do, too](https://github.com/bmershon).
 
 I currently fly a [big red biplane](https://youtu.be/j9XraUxv2eE) in Boulder, Colorado.
 
