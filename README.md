@@ -1,5 +1,7 @@
 # Brooks Mershon
 
+<img src="https://github.com/bmershon/me/raw/master/img/me/brooks_skybolt_inverted_monkey_trimmed.PNG" width="100%" alt="Steen Skybolt N23JG Brooks Mershon">
+
 I run [Mile High Gliding](https://www.facebook.com/milehighgliding/). I used to write code... [I still do, too](https://github.com/bmershon).
 
 I currently fly a [big red biplane](https://youtu.be/j9XraUxv2eE) in Boulder, Colorado.
