@@ -6,7 +6,7 @@ I run [Mile High Gliding](https://www.facebook.com/milehighgliding/). I used to 
 
 I currently fly a [big red biplane](https://youtu.be/j9XraUxv2eE) in Boulder, Colorado.
 
-*[→ Ferry Pilot](https://github.com/bmershon/flight-instruction/wiki/Ferry-Pilot)*
+**[→ Ferry Pilot](https://github.com/bmershon/flight-instruction/wiki/Ferry-Pilot)**
 
 [→ Flight Instruction](https://github.com/bmershon/flight-instruction/wiki)
 
