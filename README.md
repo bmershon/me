@@ -4,7 +4,7 @@
 
 I run [Mile High Gliding](https://www.facebook.com/milehighgliding/). I used to write code... [I still do, too](https://github.com/bmershon).
 
-[I ferry aircraft all across the U.S.](www.boulderpilot.com)
+[I offer ferry pilot services if you need a little airplane moved across the country.](www.boulderpilot.com)
 
 I currently fly a [big red biplane](https://youtu.be/j9XraUxv2eE) in Boulder, Colorado.
 
