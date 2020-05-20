@@ -89,7 +89,8 @@ As of May 2020:
 - CFI-G, Commercial ASEL/GLIDER, Instrument ASEL
 - 1,100+ Total Time
 - 430+ Tailwheel
-- 510+ hours last 12 months
+- 40+ makes and models
+- 500+ hours last 12 months
 - 100+ hours last 90 days
 - 300 hours previously owned RV-6
 - Currently own Skybolt 540, competing in Sportsman (IAC)
