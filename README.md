@@ -80,14 +80,25 @@ IAC 440213
 ## [🛩️ Aviation](https://www.flickr.com/photos/brooksmershon/albums/72157669377319182)
 
 <img src="https://github.com/bmershon/me/raw/master/img/me/49135682537_23f7e753f3_k.jpg" width="100%" alt="Steen Skybolt N23JG">
+FAA 4034486
 
-- Commercial Pilot (Glider, ASEL)
-- Instrument (ASEL)
-- Flight Instructor (Glider)
-- Tailwheel (370+ hrs)
-- Currenty own a 1976 Steen Skybolt powered by a Lycoming IO-540 (260 hp).
-- Previously owned:
-  - [1993 Van's Aircraft RV-6 (~300 hours)](https://youtu.be/fOu5UpgnYKg)
+EAA 1271516
+
+As of May 2020:
+
+- CFI-G, Commercial ASEL/GLIDER, Instrument ASEL
+- 1,100+ Total Time
+- 430+ Tailwheel
+- 510+ hours last 12 months
+- 100+ hours last 90 days
+- 300 hours previously owned RV-6
+- Currently own Skybolt 540, competing in Sportsman (IAC)
+- 900+ PIC glider landings
+- Experienced commercial glider and tow pilot (Boulder, CO)
+  - Schweizer 2-32/2-33
+  - Super Cub (180hp), Pawnee (260hp)
+- First Class Medical (March, 2020)
+- 26 Male, 152lbs, 5' 8"
 
 ## [💻 Code](https://github.com/bmershon)
 
