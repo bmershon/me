@@ -87,13 +87,13 @@ EAA 1271516
 As of May 2020:
 
 - CFI-G, Commercial ASEL/GLIDER, Instrument ASEL
-- 1,100+ Total Time
-- 430+ Tailwheel
-- 40+ makes and models
-- 500+ hours last 12 months
-- 100+ hours last 90 days
+- 1,2500+ Total Time
+- 500+ Tailwheel
+- 44+ makes and models PIC logged
+- 530+ hours last 12 months
 - 300 hours previously owned RV-6
-- Currently own Skybolt 540, competing in Sportsman (IAC)
+- 50 hours previously owned Skybolt 540
+- Currently own Pitts S1S, competing in Sportsman (IAC)
 - 900+ PIC glider landings
 - Experienced commercial glider and tow pilot (Boulder, CO)
   - Schweizer 2-32/2-33
