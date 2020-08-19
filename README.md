@@ -86,8 +86,8 @@ EAA 1271516
 
 As of May 2020:
 
-- CFI-G, Commercial ASEL/GLIDER, Instrument ASEL
-- 1,2500+ Total Time
+- CFI ASEL/GLIDER, Instrument Airplane
+- 1,250+ Total Time
 - 500+ Tailwheel
 - 44+ makes and models PIC logged
 - 530+ hours last 12 months
