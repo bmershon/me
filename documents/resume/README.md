@@ -1,10 +1,6 @@
 # Brooks Mershon
 
-```
-http://brooksmershon.com
-brooksmershon@gmail.com
-720.933.1079
-```
+**http://brooksmershon.com** | **brooksmershon@gmail.com**
 
 ## Education
 
