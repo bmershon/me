@@ -1,6 +1,8 @@
 # Brooks Mershon
 
-**http://brooksmershon.com** | **brooksmershon@gmail.com**
+**http://brooksmershon.com**
+
+**brooksmershon@gmail.com**
 
 ## Education
 
