@@ -67,4 +67,56 @@ Flight Instructor(ASEL, GLIDER)
 | C150  | 128 |
 | PA-28  | 57 |
 
+## Experience
 
+### Boulder Pilot, LLC
+
+Co-Owner and Pilot
+
+January 2020 - Present | Boulder, CO
+
+Aircraft ferry services, transition training, experimental aircraft consultation
+
+### Mile High Gliding
+
+Manager and Pilot
+
+January 2018 - Present | Boulder, CO
+
+- Experienced commercial glider and tow pilot.
+- Primary glider flight instructor; training new staff members.
+- Rebranding and implementing new marketing for Mile High Gliding.
+- Organizing restoration of existing gliders and acquisition of new aircraft.
+- Overhauling facilities and modernizing scheduling and billing practices.
+
+### Trimble SketchUp
+
+Software Developer
+
+July 2016 - January 2019 | Boulder, CO
+
+- Worked on SketchUp running in the browser.
+- 80 percent front-end work, 20 percent core geometry engine work. 
+- Won ``Best Presentation'' and ``Best Overall Hack'' at internal 2018 hackathon.
+
+### The Washington Post
+
+Graphics Intern
+
+June 2015 - August 2015 | Washington, D.C.
+
+- Designed [graphics](https://github.com/bmershon/published-urls) for print and online publication using Adobe Illustrator. \item Developed interactive graphics that were published online on subjects including baseball statistics, historical U.S. nuclear testing, and environmental conservation.
+
+### Duke University Press
+
+Books Editorial Intern
+
+January 2015 - May 2015 | Durham, NC
+
+### Versal
+
+Software Engineering Intern
+
+May 2013 - August 2013 | San Francisco, CA
+
+- Developed simulations related to optics, epidemiology, image processing, and geometry as the company launched.
