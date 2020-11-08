@@ -70,23 +70,15 @@ Flight Instructor(ASEL, GLIDER)
 
 ### Aircraft Ownership
 
-| Aircraft |
-| ----- |
-| 1991 Pitts S1S
-N262PD
-August 2020 – Present |
+| Aircraft | REGISTRATION | TIMELINE |
+| ----- | ---- | ---- |
+| 1991 Pitts S1S | N262PD | August 2020 – Present |
 
-| 1974 Cessna 150L
-N11944
-February 2020 – Present |
+| 1974 Cessna 150L |N11944 |February 2020 – Present |
 
-| 1976 Skybolt 540
-N23JG
-October 2019 – July 2020 |
+| 1976 Skybolt 540 |N23JG | October 2019 – July 2020 |
 
-| 1993 RV-6
-N134JB
-August 2018 – October 2019 |
+| 1993 RV-6 |N134JB |August 2018 – October 2019 |
 
 
 \sectionsep
