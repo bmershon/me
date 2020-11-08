@@ -18,7 +18,7 @@ I currently fly a [big red biplane](https://youtu.be/j9XraUxv2eE) in Boulder, Co
 
 [→ Reading](https://github.com/bmershon/catalog/wiki)
 
-[→ Résumé<sup>[PDF]</sup>](https://github.com/bmershon/me/blob/master/documents/resume/mershon-resume.pdf)
+[→ Résumé](https://github.com/bmershon/me/wiki/resume)
 
 EAA 1271516
 
