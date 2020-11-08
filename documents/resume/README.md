@@ -67,6 +67,35 @@ Flight Instructor(ASEL, GLIDER)
 | C150  | 128 |
 | PA-28  | 57 |
 
+
+\runsubsection{1991 Pitts S1S}
+\descript{| N262PD}
+\location{July 2020 – Present}
+\sectionsep
+
+
+### Aircraft Ownership
+
+```
+1991 Pitts S1S
+N11944
+August 2020 – Present
+
+1974 Cessna 150L
+N11944
+February 2020 – Present
+
+1976 Skybolt 540
+N23JG
+October 2019 – July 2020
+
+1993 RV-6
+N134JB
+August 2018 – October 2019
+```
+
+\sectionsep
+
 ## Experience
 
 ### Boulder Pilot, LLC
