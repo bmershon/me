@@ -36,8 +36,14 @@ Emscripten
 
 ### Aviation
 
-4034486CFIG
+4034486CFI
+
+EAA 1271516
+
+IAC 440213
+
 Commercial Pilot (ASEL, GLIDER)
+
 Flight Instructor(ASEL, GLIDER)
 
 | CATEGORY  | HOURS |
@@ -53,6 +59,8 @@ Flight Instructor(ASEL, GLIDER)
 | INSTRUCTOR  | 218 |
 | 12-MONTHS  | 493 |
 | 90 Days | 120 |
+
+50 + Makes and Models flown, including:
 
 | MAKE & MODEL (PIC)  | HOURS |
 | ------------- | ------------- |
