@@ -36,15 +36,15 @@ Emscripten
 
 ### Aviation
 
+**Commercial Pilot (ASEL, GLIDER)**
+
+**Flight Instructor(ASEL, GLIDER)**
+
 4034486CFI
 
 EAA 1271516
 
 IAC 440213
-
-Commercial Pilot (ASEL, GLIDER)
-
-Flight Instructor(ASEL, GLIDER)
 
 | CATEGORY  | HOURS |
 | ------------- | ------------- |
