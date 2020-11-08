@@ -30,7 +30,9 @@ Valedictorian
 TypeScript • JavaScript • D3
 Git • Make
 HTML • CSS • LATEX
-Familiar:
+
+**Familiar:**
+
 C++ • Python • Java • R • PostgreSQL
 Emscripten
 
