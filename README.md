@@ -84,22 +84,7 @@ FAA 4034486
 
 EAA 1271516
 
-As of May 2020:
-
-- CFI ASEL/GLIDER, Instrument Airplane
-- 1,250+ hours total Time
-- 500+ hours tailwheel
-- 44+ makes and models PIC logged
-- 530+ hours last 12 months
-- 300 hours previously owned RV-6
-- 50 hours previously owned Skybolt 540
-- Currently own Pitts S1S, competing in Sportsman (IAC)
-- 1,000+ PIC glider landings
-- Experienced commercial glider and tow pilot (Boulder, CO)
-  - Schweizer 2-32/2-33
-  - Super Cub (180hp), Pawnee (260hp)
-- First Class Medical (March, 2020)
-- 26 Male, 152lbs, 5' 8"
+See [www.boulderpilot.com](https://www.boulderpilot.com/)
 
 ## [💻 Code](https://github.com/bmershon)
 
