@@ -144,7 +144,7 @@ July 2016 - January 2019 | Boulder, CO
 
 - Worked on SketchUp running in the browser.
 - 80 percent front-end work, 20 percent core geometry engine work. 
-- Won ``Best Presentation'' and ``Best Overall Hack'' at internal 2018 hackathon.
+- Won *Best Presentation* and *Best Overall Hack* at internal 2018 hackathon.
 
 ### The Washington Post
 
