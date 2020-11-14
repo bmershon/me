@@ -4,13 +4,11 @@
 
 I run [Mile High Gliding](https://www.facebook.com/milehighgliding/). I used to write code... [I still do, too](https://github.com/bmershon).
 
-I offer [ferry pilot services](https://www.boulderpilot.com) if you need a little airplane moved across the country.
+I am a co-owner and pilot of [Boulder Pilot, LLC](https://www.boulderpilot.com), which offers transition training, ferry pilot services, and experimental flight test consultation based out of the Boulder/Denver area.
 
-I currently fly a [big red biplane](https://youtu.be/j9XraUxv2eE) in Boulder, Colorado.
+I currently fly a Pitts S1S, competing in the Rocky Mountain Chapter 12 of the International Aerobatic Club.
 
-**[→ Ferry Pilot](https://sites.google.com/view/boulderpilot/)**
-
-[→ Flight Instruction](https://github.com/bmershon/flight-instruction/wiki)
+[→ Flight Instruction](https://www.boulderpilot.com)
 
 [→ Flickr](https://www.flickr.com/photos/brooksmershon/)
 
