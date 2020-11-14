@@ -114,7 +114,7 @@ See [www.boulderpilot.com](https://www.boulderpilot.com/)
 
 [Flickr](https://www.flickr.com/photos/brooksmershon/), [YouTube](https://www.youtube.com/channel/UCPgjrNcZLa9hZ_tPYRI1pcQ), [Vimeo](https://vimeo.com/bmershon).
 
-## 🤵🏻 Experience
+## 🕔 Experience
 
 ### Boulder Pilot, LLC
 
