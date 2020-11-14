@@ -95,7 +95,7 @@ Co-Owner and Pilot
 
 January 2020 - Present | Boulder, CO
 
-Aircraft ferry services, transition training, experimental aircraft consultation
+Aircraft ferry services, transition training, experimental aircraft consultation.
 
 ### Mile High Gliding
 
