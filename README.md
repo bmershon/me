@@ -114,6 +114,21 @@ See [www.boulderpilot.com](https://www.boulderpilot.com/)
 
 [Flickr](https://www.flickr.com/photos/brooksmershon/), [YouTube](https://www.youtube.com/channel/UCPgjrNcZLa9hZ_tPYRI1pcQ), [Vimeo](https://vimeo.com/bmershon).
 
+## 🎓 Education
+
+### Duke University
+BS in Computer Science
+
+May 2016 | Durham, NC
+
+Cum. GPA: 3.74 / 4.0
+
+Duke Cycling Team Member
+
+### New York University
+
+Writers in New York 2014
+
 ## 🕔 Experience
 
 ### Boulder Pilot, LLC
