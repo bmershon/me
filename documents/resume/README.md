@@ -1,3 +1,3 @@
 See [www.brooksmershon.com](www.brooksmershon.com).
 
-[Or Download the PDF version.]()
+[Download the PDF version](https://github.com/bmershon/me/raw/master/documents/resume/mershon-resume.pdf)
