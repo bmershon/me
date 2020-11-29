@@ -16,7 +16,7 @@ I currently fly a Pitts S1S, competing in the Rocky Mountain Chapter 12 of the I
 
 [→ Reading](https://github.com/bmershon/catalog/wiki)
 
-[→ Résumé](https://github.com/bmershon/me/blob/master/documents/resume/README.md)
+[→ Résumé [PDF]](https://github.com/bmershon/me/raw/master/documents/resume/mershon-resume.pdf)
 
 EAA 1271516
 
