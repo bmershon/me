@@ -162,7 +162,7 @@ July 2016 - January 2019 | Boulder, CO
 - Significant engineering and design involvement bringing SketchUp Web to the EDU market, including integrating online file saving with Google Drive.
 - Focused on improving the look, feel, and usability of the SketchUp Web user interface, specifically the search for Commands.
 - 90 percent front-end work, 10 percent core geometry engine work. 
-- Won ``Best Presentation'' and ``Best Overall Hack'' at internal 2018 hackathon.
+- Won Best Presentation and Best Overall Hack at internal 2018 hackathon.
 
 ### The Washington Post
 
