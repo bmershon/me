@@ -137,7 +137,10 @@ Co-Owner and Pilot
 
 January 2020 - Present | Boulder, CO
 
-Aircraft ferry services, transition training, experimental aircraft consultation.
+- Started an aircraft ferry services and transition training LLC with an emphasis on experimental aircraft, biplanes, and other demanding tailwheel aircraft with a Fedex Express and Air National Guard Pilot.
+- Developed the website, branding, merchandizing, and billing practices for the Boulder Pilot brand.
+- Long term contract test pilot for an Experimental Ryan ST replica. All new, CAD from the ground up, kitplane design being brought to market.
+- Formed long term relationship for flight test, design consultation, marketing, video production, and technical documentation with Timber Tiger Aircraft.
 
 ### Mile High Gliding
 
@@ -145,9 +148,8 @@ Manager and Pilot
 
 January 2018 - Present | Boulder, CO
 
-- Experienced commercial glider and tow pilot.
-- Primary glider flight instructor; training new staff members.
-- Rebranding and implementing new marketing for Mile High Gliding.
+- Experienced commercial glider and tow pilot. Scenic glider rides, transition training, and primary flight instruction. Responsible for staff pilot training.
+- Rebranding and implementing advertising and web presence under new ownership and merging with Journeys Aviation.
 - Organizing restoration of existing gliders and acquisition of new aircraft.
 - Overhauling facilities and modernizing scheduling and billing practices.
 
@@ -157,9 +159,10 @@ Software Developer
 
 July 2016 - January 2019 | Boulder, CO
 
-- Worked on SketchUp running in the browser.
-- 80 percent front-end work, 20 percent core geometry engine work. 
-- Won *Best Presentation* and *Best Overall Hack* at internal 2018 hackathon.
+- Significant engineering and design involvement bringing SketchUp Web to the EDU market, including integrating online file saving with Google Drive.
+- Focused on improving the look, feel, and usability of the SketchUp Web user interface, specifically the search for Commands.
+- 90 percent front-end work, 10 percent core geometry engine work. 
+- Won ``Best Presentation'' and ``Best Overall Hack'' at internal 2018 hackathon.
 
 ### The Washington Post
 
