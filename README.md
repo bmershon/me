@@ -77,7 +77,7 @@ IAC 440213
 
 ## [🛩️ Aviation](https://www.flickr.com/photos/brooksmershon/albums/72157669377319182)
 
-<img src="https://github.com/bmershon/me/blob/master/img/me/collage.PNG" width="100%" alt="Steen Skybolt N23JG">
+<img src="https://github.com/bmershon/me/blob/master/img/me/collage.PNG" width="100%" alt="Brooks Aviation Collage">
 FAA 4034486
 
 EAA 1271516
