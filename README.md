@@ -134,7 +134,7 @@ Writers in New York 2014
 
 Co-Owner and Pilot
 
-January 2020 - Present | Boulder, CO
+March 2020 - Present | Boulder, CO
 
 - Started an aircraft ferry services and transition training LLC with an emphasis on experimental aircraft, biplanes, and other demanding tailwheel aircraft with a Fedex Express and Air National Guard Pilot.
 - Developed the website, branding, merchandizing, and billing practices for the Boulder Pilot brand.
