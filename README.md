@@ -169,7 +169,8 @@ Graphics Intern
 
 June 2015 - August 2015 | Washington, D.C.
 
-- Designed [graphics](https://github.com/bmershon/published-urls) for print and online publication using Adobe Illustrator. \item Developed interactive graphics that were published online on subjects including baseball statistics, historical U.S. nuclear testing, and environmental conservation.
+- Designed [graphics](https://github.com/bmershon/published-urls) for print and online publication using Adobe Illustrator.
+- Developed interactive graphics that were published online on subjects including baseball statistics, historical U.S. nuclear testing, and environmental conservation.
 
 ### Duke University Press
 
