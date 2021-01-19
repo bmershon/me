@@ -76,7 +76,9 @@ I currently fly a Pitts S1S, competing in the Rocky Mountain Chapter 12 of the I
 <img src="https://github.com/bmershon/me/blob/master/img/me/collage.PNG" width="100%" alt="Brooks Aviation Collage">
 
 FAA 4034486
+
 EAA 1271516 **(Flight Advisor)**
+
 IAC 440213
 
 See [www.boulderpilot.com](https://www.boulderpilot.com/)
