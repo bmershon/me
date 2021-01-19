@@ -18,10 +18,6 @@ I currently fly a Pitts S1S, competing in the Rocky Mountain Chapter 12 of the I
 
 [→ Résumé [PDF]](https://github.com/bmershon/me/raw/master/documents/resume/mershon-resume.pdf)
 
-EAA 1271516
-
-IAC 440213
-
 ## [🆕 Projects](https://github.com/bmershon)
 
 <a name="grid-cycles" href="#grid-cycles">#</a><b> Grid Cycles</b>
@@ -78,9 +74,10 @@ IAC 440213
 ## [🛩️ Aviation](https://www.flickr.com/photos/brooksmershon/albums/72157669377319182)
 
 <img src="https://github.com/bmershon/me/blob/master/img/me/collage.PNG" width="100%" alt="Brooks Aviation Collage">
-FAA 4034486
 
-EAA 1271516
+FAA 4034486
+EAA 1271516 **(Flight Advisor)**
+IAC 440213
 
 See [www.boulderpilot.com](https://www.boulderpilot.com/)
 
