@@ -73,7 +73,7 @@ I currently fly a Pitts S1S, competing in the Rocky Mountain Chapter 12 of the I
 
 ## [🛩️ Aviation](https://www.flickr.com/photos/brooksmershon/albums/72157669377319182)
 
-<img src="https://github.com/bmershon/me/blob/master/img/me/collage.PNG" width="100%" alt="Brooks Aviation Collage">
+<img src="https://github.com/bmershon/me/raw/master/img/me/50875662028_ec3a06e0d1_o.jpg" width="100%" alt="Brooks Aviation Collage">
 
 FAA 4034486
 
