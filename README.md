@@ -10,7 +10,7 @@ Co-owner and pilot of [Boulder Pilot, LLC](https://www.boulderpilot.com), which 
 
 I currently own and operate a Pitts Special S-1S, competing in the Rocky Mountain Chapter 12 of the International Aerobatic Club.
 
-<img src="https://github.com/bmershon/me/raw/master/img/me/50875662028_ec3a06e0d1_o.jpg" width="100%" alt="Brooks Aviation Collage">
+<img src="https://github.com/bmershon/me/raw/master/img/me/IMG_20210327_170048086_HDR.jpg" width="100%" alt="Brooks Aviation Collage">
 
 [→ Flight Instruction](https://www.boulderpilot.com)
 
