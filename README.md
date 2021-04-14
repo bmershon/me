@@ -2,7 +2,7 @@
 
 <img src="https://github.com/bmershon/me/raw/master/img/me/brooks_skybolt_inverted_monkey_trimmed.PNG" width="100%" alt="Steen Skybolt N23JG Brooks Mershon">
 
-I am a software developer at UNAVCO, working on neat 🌎 science stuff. I am also the Chief Pilot and a sponosred ambassador for [Mile High Gliding](https://www.facebook.com/milehighgliding/) at Boulder Airport. I am also a co-owner and pilot of [Boulder Pilot, LLC](https://www.boulderpilot.com), which offers transition training, ferry pilot services, and experimental flight test consultation based out of the Boulder/Denver area.
+I am a software developer at UNAVCO, working on neat 🌎 science stuff. I am also the Chief Pilot and a brand ambassador for [Mile High Gliding](https://www.facebook.com/milehighgliding/) at Boulder Airport. I am also a co-owner and pilot of [Boulder Pilot, LLC](https://www.boulderpilot.com), which offers transition training, ferry pilot services, and experimental flight test consultation based out of the Boulder/Denver area.
 
 I currently fly a Pitts S-1S, competing in the Rocky Mountain Chapter 12 of the International Aerobatic Club.
 
