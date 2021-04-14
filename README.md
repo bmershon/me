@@ -138,6 +138,16 @@ Software Engineer III
 
 April 2021 - Present | Boulder, CO
 
+### Mile High Gliding
+
+Chief Pilot and Brand Ambassador
+
+April 2021 - Present | Boulder, CO
+
+- Staff training in Piper Super Cub, Citabria, Schweizer 2-32 and 2-33 gliders.
+- Curriculum development for instruction at MHG, interfacing with Wings Over the Rockies scholarship programs for students learning to fly gliders.
+- Sponsored aerobatic pilot, Pitts S-1S, representing Journeys Aviation and Mile High Gliding.
+
 ### Boulder Pilot, LLC
 
 Co-Owner and Pilot
@@ -153,7 +163,7 @@ March 2020 - Present | Boulder, CO
 
 Manager and Pilot
 
-January 2018 - Present | Boulder, CO
+January 2018 - April 2021 | Boulder, CO
 
 - Experienced commercial glider and tow pilot. Scenic glider rides, transition training, and primary flight instruction. Responsible for staff pilot training.
 - Rebranding and implementing advertising and web presence under new ownership and merging with Journeys Aviation.
