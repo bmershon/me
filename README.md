@@ -75,7 +75,7 @@ I currently own and operate a Pitts Special S-1S, competing in the Rocky Mountai
 
 ## [🛩️ Aviation](https://www.flickr.com/photos/brooksmershon/albums/72157669377319182)
 
-<img src="https://github.com/bmershon/me/raw/master/img/me/51254479983_a4a6249caf_k.jpg" width="100%" alt="Brooks Mershon Pitts S-1S N262PD">
+<img src="https://github.com/bmershon/me/raw/master/img/me/51275529878_a39a8892ba_o.jpg" width="100%" alt="Brooks Mershon Pitts S-1S N262PD">
 
 FAA 4034486
 
