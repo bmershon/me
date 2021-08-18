@@ -22,7 +22,7 @@ I currently own and operate a Pitts Special S-1S, competing in the Rocky Mountai
 
 ## [🆕 Projects](https://github.com/bmershon)
 
-See my latest work on (Observable](https://observablehq.com/@bmershon).
+See my latest work on [Observable](https://observablehq.com/@bmershon).
 
 <a name="grid-cycles" href="#grid-cycles">#</a><b> Grid Cycles</b>
 <a href="https://bl.ocks.org/bmershon/67a9e48a3718d1ec1e81a240f51b6101/"><img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/grid-cycles/teaser.png" width="100%" alt="Grid Cycles"></a>
