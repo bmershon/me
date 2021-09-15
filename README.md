@@ -1,6 +1,6 @@
 # Brooks Mershon
 
-<img src="https://github.com/bmershon/me/raw/master/img/me/brooks_skybolt_inverted_monkey_trimmed.PNG" width="100%" alt="Steen Skybolt N23JG Brooks Mershon">
+<img src="https://github.com/bmershon/me/raw/master/img/me/51254479983_a4a6249caf_k%20(3).jpg" width="100%" alt="N262PD Pitts S-1S Brooks Mershon">
 
 Software Engineer at UNAVCO, [working on neat Geodesy stuff](https://www.youtube.com/watch?v=yxLMk120vMU).
 
