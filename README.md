@@ -12,6 +12,8 @@ I currently own and operate a Pitts Special S-1S, competing in the Rocky Mountai
 
 [→ Flight Instruction](https://www.boulderpilot.com)
 
+[→ My flying logbook](https://observablehq.com/@bmershon/my-flying-data)
+
 [→ Flickr](https://www.flickr.com/photos/brooksmershon/)
 
 [→ YouTube](https://www.youtube.com/user/BrooksMershon/featured)
