@@ -2,6 +2,8 @@
 
 <img src="https://github.com/bmershon/me/raw/master/img/me/51254479983_a4a6249caf_k%20(3).jpg" width="100%" alt="N262PD Pitts S-1S Brooks Mershon">
 
+[Made the news (for aerobatics stuff)!](https://wlos.com/community/carolina-moment/aerobatic-pilot-who-competes-year-round-has-big-dreams-of-making-it-to-us-nationals-brooks-mershon)
+
 Software Engineer at UNAVCO, [working on neat Geodesy stuff](https://www.youtube.com/watch?v=yxLMk120vMU).
 
 Brand Ambassador for [Mile High Gliding](https://www.facebook.com/milehighgliding/) at Boulder Airport.
