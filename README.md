@@ -10,7 +10,7 @@ Brand Ambassador for [Mile High Gliding](https://www.facebook.com/milehighglidin
 
 Owner of [Boulder Pilot, LLC](https://www.boulderpilot.com), which offers transition training, ferry pilot services, and experimental flight test consultation based out of the ~~Boulder/Denver area~~ Asheville, North Carolina and surrounding airports.
 
-I currently own and operate a Pitts Special S-1S, competing in the Rocky Mountain Chapter 12 of the International Aerobatic Club.
+I currently own and operate a Pitts Special S-1S, currently competing in International Aerobatic Club contests. See my [results here](https://iaccdb.iac.org/pilots/3242).
 
 [→ Flight Instruction](https://www.boulderpilot.com)
 
