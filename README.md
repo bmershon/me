@@ -146,7 +146,7 @@ April 2021 - Present | Boulder, CO
 
 Chief Pilot and Brand Ambassador
 
-April 2021 - Present | Boulder, CO
+April 2021 - February, 2022 | Boulder, CO
 
 - Staff training in Piper Super Cub, Citabria, Schweizer 2-32 and 2-33 gliders.
 - Curriculum development for instruction at MHG, interfacing with Wings Over the Rockies scholarship programs for students learning to fly gliders.
