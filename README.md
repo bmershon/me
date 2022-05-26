@@ -1,6 +1,6 @@
 # Brooks Mershon
 
-<img src="[https://github.com/bmershon/me/raw/master/img/me/51254479983_a4a6249caf_k%20(3).jpg](https://github.com/bmershon/me/raw/master/img/me/brooks_mershon_pitts_prop_circle.jpg)" width="100%" alt="N69KK Pitts S-1S Brooks Mershon">
+<img src="https://github.com/bmershon/me/raw/master/img/me/brooks_mershon_pitts_prop_circle.jpg" width="100%" alt="N69KK Pitts S-1S Brooks Mershon">
 
 [Made the news (for aerobatics stuff)!](https://wlos.com/community/carolina-moment/aerobatic-pilot-who-competes-year-round-has-big-dreams-of-making-it-to-us-nationals-brooks-mershon)
 
