@@ -4,11 +4,9 @@
 
 Software Engineer at UNAVCO, [working on neat Geodesy stuff](https://www.youtube.com/watch?v=yxLMk120vMU).
 
-Brand Ambassador for [Mile High Gliding](https://www.facebook.com/milehighgliding/) at Boulder Airport.
+Owner, [Boulder Pilot, LLC](https://www.boulderpilot.com), offering transition training, ferry pilot services, and experimental flight test consultation in Western North Carolina and the Rocky Mountain area.
 
-Owner of [Boulder Pilot, LLC](https://www.boulderpilot.com), which offers transition training, ferry pilot services, and experimental flight test consultation based out of the ~~Boulder/Denver area~~ Asheville, North Carolina and surrounding airports.
-
-I currently own and operate a Pitts Special S-1S, currently competing in International Aerobatic Club contests. See my [results here](https://iaccdb.iac.org/pilots/3242).
+Own and operate a Pitts Special S-1S, currently competing in International Aerobatic Club contests throughout the US (mostly on the East Coast). See my [results here](https://iaccdb.iac.org/pilots/3242).
 
 [→ Flight Instruction](https://www.boulderpilot.com)
 
