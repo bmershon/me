@@ -95,7 +95,7 @@ See [www.boulderpilot.com](https://www.boulderpilot.com/)
 
 * [bl.ocks.org](http://bl.ocks.org/bmershon) for interactive visuals, code snippets, and [bite-sized explainers](https://bl.ocks.org/bmershon/372fe12a6d2b560513b3aa8d6c5a4b31). Often made [to teach myself](https://bl.ocks.org/bmershon/d332ba9b06975562979efba7b367e162). These are updated frequently and more often than not reflect a day's effort at playing with a new idea. In the same veign as Mike Bostock's [examples](https://bost.ocks.org/mike/example/), these *blocks* help me to break a larger project into smaller self-contained explainers. It's a good day when I can upload another one of these; like building blocks, these tend to be part of larger and more involved structures.
 
-* [Observable Notebooks](https://beta.observablehq.com/@bmershon). I have recently started producing interactive educational content on this platform in parallel with the material that I am currently self-studying. I learn best by examples. [Observable](https://beta.observablehq.com/) helps me build examples that keep on giving to both myself and others.
+* [Observable Notebooks](https://observablehq.com/collection/@unavco/unavco-for-observable). My latest work has been a series of interacive tools built for UNAVCO to support the geoscience and geodesy scientific communities; get data, share data, explore data, and find pedagogical tools built to explain what we can do with geoscience data (mostly high precisison GPS/GNSS archival and realtime data).
 
 ## [🌎 Publications](https://github.com/bmershon/washington-post-graphics/blob/master/README.md)
 
