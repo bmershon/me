@@ -6,7 +6,7 @@ Software Engineer at UNAVCO, [working on neat Geodesy stuff](https://www.youtube
 
 Owner, [Boulder Pilot, LLC](https://www.boulderpilot.com), offering transition training, ferry pilot services, and experimental flight test consultation in Western North Carolina and the Rocky Mountain area.
 
-Competing in International Aerobatic Club contests throughout the US (mostly on the East Coast) in my Pitts S-1S. See my [results here](https://iaccdb.iac.org/pilots/3242).
+Competing in International Aerobatic Club contests throughout the US (mostly on the East Coast) in my Pitts S-1S. See my [results here](https://iaccdb.iac.org/pilots/3242). Proudly sponsored by [Ingenious Coffee Roasters](https://www.ingeniouscoffeeroasters.com/) on Main Street in Marion, NC.
 
 [→ Flight Instruction](https://www.boulderpilot.com)
 
