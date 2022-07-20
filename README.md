@@ -144,8 +144,8 @@ Software Engineer III
 
 April 2021 - Present | Boulder, CO
 
-- Rapid prototyping of frontend data discovery and visualization tools on
-Observable featured in Yahoo News and Observable customer success stories.
+- [Rapid prototyping of frontend data discovery and visualization tools on
+Observable](https://observablehq.com/collection/@unavco/unavco-for-observable) featured in Yahoo News and Observable customer success stories.
 - Pedagogical tools related to seismology and GNSS aspects of geoscience.
 - Shake Alert earthquake early warning system design;research and
 development team.
