@@ -22,6 +22,8 @@ Competing in International Aerobatic Club contests throughout the US (mostly on 
 
 ## [🆕 Projects](https://github.com/bmershon)
 
+<a href="https://observablehq.com/collection/@unavco/unavco-for-observable"><img src="https://github.com/bmershon/me/raw/master/img/me/UANVCO_observable_back_v3.png" width="100%" alt="UNAVCO for Observable"></a>
+
 See my latest work for UNAVCO on [Observable](https://observablehq.com/collection/@unavco/unavco-for-observable).
 
 <a name="grid-cycles" href="#grid-cycles">#</a><b> Grid Cycles</b>
