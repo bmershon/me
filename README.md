@@ -22,7 +22,7 @@ Competing in International Aerobatic Club contests throughout the US (mostly on 
 
 ## [🆕 Projects](https://github.com/bmershon)
 
-<a href="https://observablehq.com/collection/@unavco/unavco-for-observable"><img src="https://github.com/bmershon/me/raw/master/img/me/UNAVCO_observable_front_v3.png" width="100%" alt="UNAVCO for Observable"></a>
+<a href="https://observablehq.com/collection/@unavco/unavco-for-observable"><img src="https://github.com/bmershon/me/raw/master/img/me/UANVCO_observable_combined_v4.png" width="100%" alt="UNAVCO for Observable"></a>
 
 See my latest work for UNAVCO on [Observable](https://observablehq.com/collection/@unavco/unavco-for-observable).
 
