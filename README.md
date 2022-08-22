@@ -83,7 +83,7 @@ See my latest work for UNAVCO on [Observable](https://observablehq.com/collectio
 
 <img src="https://github.com/bmershon/me/raw/master/img/me/51275529878_a39a8892ba_o.jpg" width="100%" alt="Brooks Mershon Pitts S-1S N262PD">
 
-<img src="[https://photos.google.com/u/1/photo/AF1QipPt17UmPLydyzXshpKRUA45LcUXsd62qeWLjdUc.jpg](https://github.com/bmershon/me/raw/master/img/me/PXL_20220812_155708759.jpg)" width="100%" alt="Brooks Mershon Bellanca Viking N6694V">
+<img src="https://raw.githubusercontent.com/bmershon/me/master/img/me/PXL_20220812_155708759.jpg" width="100%" alt="Brooks Mershon Bellanca Viking N6694V">
 
 FAA 4034486
 
