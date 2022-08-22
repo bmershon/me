@@ -83,6 +83,8 @@ See my latest work for UNAVCO on [Observable](https://observablehq.com/collectio
 
 <img src="https://github.com/bmershon/me/raw/master/img/me/51275529878_a39a8892ba_o.jpg" width="100%" alt="Brooks Mershon Pitts S-1S N262PD">
 
+<img src="https://photos.google.com/u/1/photo/AF1QipPt17UmPLydyzXshpKRUA45LcUXsd62qeWLjdUc" width="100%" alt="Brooks Mershon Bellanca Viking N6694V">
+
 FAA 4034486
 
 EAA 1271516 **(Flight Advisor)**
