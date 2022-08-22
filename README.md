@@ -2,9 +2,11 @@
 
 <img src="https://github.com/bmershon/me/raw/master/img/me/brooks_mershon_pitts_prop_circle.jpg" width="100%" alt="N69KK Pitts S-1S Brooks Mershon">
 
-Software Engineer at UNAVCO, [working on neat Geodesy stuff](https://www.youtube.com/watch?v=yxLMk120vMU).
+Software Engineer @ UNAVCO, [working on neat Geodesy stuff](https://www.youtube.com/watch?v=yxLMk120vMU).
 
 Owner, [Boulder Pilot, LLC](https://www.boulderpilot.com), offering transition training, ferry pilot services, and experimental flight test consultation in Western North Carolina and the Rocky Mountain area.
+
+Founder and President, EAA Chapter 1662 at Shiflet Field.
 
 Competing in International Aerobatic Club contests throughout the US (mostly on the East Coast) in my Pitts S-1S. See my [results here](https://iaccdb.iac.org/pilots/3242). Proudly sponsored by [Ingenious Coffee Roasters](https://www.ingeniouscoffeeroasters.com/) on Main Street in Marion, NC.
 
@@ -81,8 +83,6 @@ See my latest work for UNAVCO on [Observable](https://observablehq.com/collectio
 
 [In the news!](https://wlos.com/community/carolina-moment/aerobatic-pilot-who-competes-year-round-has-big-dreams-of-making-it-to-us-nationals-brooks-mershon)
 
-<img src="https://github.com/bmershon/me/raw/master/img/me/51275529878_a39a8892ba_o.jpg" width="100%" alt="Brooks Mershon Pitts S-1S N262PD">
-
 <img src="https://raw.githubusercontent.com/bmershon/me/master/img/me/PXL_20220812_155708759.jpg" width="100%" alt="Brooks Mershon Bellanca Viking N6694V">
 
 FAA 4034486
@@ -90,6 +90,8 @@ FAA 4034486
 EAA 1271516 **(Flight Advisor)**
 
 IAC 440213
+
+Own and operate Pitts S-1S and Bellanca Viking.
 
 See [www.boulderpilot.com](https://www.boulderpilot.com/)
 
