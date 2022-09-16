@@ -4,7 +4,7 @@
 
 Software Engineer @ UNAVCO, [working on neat Geodesy stuff](https://www.youtube.com/watch?v=yxLMk120vMU).
 
-Owner, [Boulder Pilot, LLC](https://www.boulderpilot.com), offering transition training, ferry pilot services, and experimental flight test consultation in Western North Carolina and the Rocky Mountain area.
+Co-Owner, [Boulder Pilot, LLC](https://www.boulderpilot.com). Offering graphic design services specializing in aviation. Design for exterior vinyl application on aircraft exteriors. Logo design, and branding. Boulder Pilot also offers transition training, ferry pilot services, and experimental flight test consultation in Western North Carolina and the Rocky Mountain area.
 
 Founder and President, EAA Chapter 1662 at Shiflet Field.
 
