@@ -8,7 +8,7 @@ Co-Owner, [Boulder Pilot, LLC](https://www.boulderpilot.com). Offering graphic d
 
 Founder and President, EAA Chapter 1662 at Shiflet Field.
 
-Competing in International Aerobatic Club contests throughout the US (mostly on the East Coast) in my Pitts S-1S. See my [results here](https://iaccdb.iac.org/pilots/3242). Proudly sponsored by [Ingenious Coffee Roasters](https://www.ingeniouscoffeeroasters.com/) on Main Street in Marion, NC, [Turtle Laboratories](https://turtlelaboratories.com/), and [Refinery 13 Taproom](https://www.facebook.com/Refinery13Taproom/).
+Competing in International Aerobatic Club contests throughout the US (mostly on the East Coast) in my Pitts S-1S. See my [results here](https://iaccdb.iac.org/pilots/3242). Proudly sponsored by [Ingenious Coffee Roasters](https://www.ingeniouscoffeeroasters.com/), [Turtle Laboratories](https://turtlelaboratories.com/), and [Refinery 13 Taproom](https://www.facebook.com/Refinery13Taproom/). All local businesses in Marion, NC.
 
 [→ Flight Instruction](https://www.boulderpilot.com)
 
