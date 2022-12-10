@@ -2,7 +2,7 @@
 
 <img src="https://github.com/bmershon/me/raw/master/img/me/brooks_mershon_pitts_prop_circle.jpg" width="100%" alt="N69KK Pitts S-1S Brooks Mershon">
 
-Software Engineer @ UNAVCO, [working on neat Geodesy stuff](https://www.youtube.com/watch?v=yxLMk120vMU).
+Software Engineer @ EarthScope Consortium, [working on neat Geodesy stuff](https://www.youtube.com/watch?v=yxLMk120vMU).
 
 Co-Owner, [Boulder Pilot, LLC](https://www.boulderpilot.com). Offering graphic design services specializing in aviation. Design for exterior vinyl application on aircraft exteriors. Logo design, and branding. Boulder Pilot also offers transition training, ferry pilot services, and experimental flight test consultation in Western North Carolina and the Rocky Mountain area.
 
