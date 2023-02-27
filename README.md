@@ -91,9 +91,11 @@ EAA 1271516 **(Flight Advisor)**
 
 IAC 440213
 
-Own and operate Pitts S-1S and Bellanca Viking.
+Own and operate Pitts S-1S and Bellanca Viking, based in Camarillo, California (KCMA).
 
-See [www.boulderpilot.com](https://www.boulderpilot.com/)
+Founded EAA Chapter 1662 at Shiflet Field in Marion, NC.
+
+See [www.boulderpilot.com/gallery](https://www.boulderpilot.com/gallery)
 
 ## [💻 Code](https://github.com/bmershon)
 
