@@ -20,7 +20,7 @@ Competing in International Aerobatic Club contests throughout the US (mostly on 
 
 [→ Reading](https://github.com/bmershon/catalog/wiki)
 
-[→ Résumé [PDF]](https://github.com/bmershon/me/raw/master/documents/resume/mershon-resume.pdf)
+[→ Résumé [PDF]](https://github.com/bmershon/me/raw/master/documents/resume/brooks_mershon_2022_resume.pdf)
 
 ## [🆕 Projects](https://github.com/bmershon)
 
