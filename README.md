@@ -4,12 +4,6 @@
 
 Software Engineer @ EarthScope Consortium, [working on neat Geodesy stuff](https://www.youtube.com/watch?v=yxLMk120vMU).
 
-Co-Owner, [Boulder Pilot, LLC](https://www.boulderpilot.com). Offering graphic design services specializing in aviation. Design for exterior vinyl application on aircraft exteriors. Logo design, and branding. Boulder Pilot also offers transition training, ferry pilot services, and experimental flight test consultation in Western North Carolina and the Rocky Mountain area.
-
-Founder and President, EAA Chapter 1662 at Shiflet Field.
-
-Competing in International Aerobatic Club contests throughout the US (mostly on the East Coast) in my Pitts S-1S. See my [results here](https://iaccdb.iac.org/pilots/3242). Proudly sponsored by [Ingenious Coffee Roasters](https://www.ingeniouscoffeeroasters.com/), [Turtle Laboratories](https://turtlelaboratories.com/), and [Refinery 13 Taproom](https://www.facebook.com/Refinery13Taproom/). All local businesses in Marion, NC.
-
 [→ Flight Instruction](https://www.boulderpilot.com)
 
 [→ My flying logbook](https://observablehq.com/@bmershon/my-flying-data)
@@ -26,7 +20,7 @@ Competing in International Aerobatic Club contests throughout the US (mostly on 
 
 <a href="https://observablehq.com/collection/@unavco/unavco-for-observable"><img src="https://github.com/bmershon/me/raw/master/img/me/UANVCO_observable_combined_v4.png" width="69%" alt="UNAVCO for Observable"></a>
 
-See my latest work for UNAVCO on [Observable](https://observablehq.com/collection/@unavco/unavco-for-observable).
+See my latest work for EarthScope on [Observable](https://observablehq.com/collection/@unavco/unavco-for-observable).
 
 <a name="grid-cycles" href="#grid-cycles">#</a><b> Grid Cycles</b>
 <a href="https://bl.ocks.org/bmershon/67a9e48a3718d1ec1e81a240f51b6101/"><img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/grid-cycles/teaser.png" width="100%" alt="Grid Cycles"></a>
@@ -92,8 +86,6 @@ EAA 1271516 **(Flight Advisor)**
 IAC 440213
 
 Own and operate Pitts S-1S and Bellanca Viking, based in Camarillo, California (KCMA).
-
-Founded EAA Chapter 1662 at Shiflet Field in Marion, NC.
 
 See [www.boulderpilot.com/gallery](https://www.boulderpilot.com/gallery)
 
