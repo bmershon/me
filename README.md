@@ -2,7 +2,7 @@
 
 <img src="https://github.com/bmershon/me/raw/master/img/me/brooks_mershon_pitts_prop_circle.jpg" width="100%" alt="N69KK Pitts S-1S Brooks Mershon">
 
-Software Engineer @ [EarthScope Consortium](https://www.earthscope.org/).
+Software Developer @ [EarthScope Consortium](https://www.earthscope.org/), focused on making interactive tools on the web.
 
 [→ Flight Instruction](https://www.boulderpilot.com)
 
