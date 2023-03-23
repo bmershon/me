@@ -173,7 +173,7 @@ March 2020 - Present | Boulder, CO
 
 Manager and Pilot
 
-January 2018 - April 2021 | Boulder, CO
+January 2019 - April 2021 | Boulder, CO
 
 - Experienced commercial glider and tow pilot. Scenic glider rides, transition training, and primary flight instruction. Responsible for staff pilot training.
 - Rebranding and implementing advertising and web presence under new ownership and merging with Journeys Aviation.
