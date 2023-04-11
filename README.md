@@ -97,24 +97,6 @@ See [www.boulderpilot.com/gallery](https://www.boulderpilot.com/gallery)
 
 * [Observable Notebooks](https://observablehq.com/collection/@unavco/unavco-for-observable). My latest work has been a series of interacive tools built for UNAVCO to support the geoscience and geodesy scientific communities; get data, share data, explore data, and find pedagogical tools built to explain what we can do with geoscience data (mostly high precisison GPS/GNSS archival and realtime data).
 
-## [🌎 Publications](https://github.com/bmershon/washington-post-graphics/blob/master/README.md)
-
-* [Static and Interactive illustrations](https://github.com/bmershon/washington-post-graphics/blob/master/README.md) for The Washington Post.
-* [Pratt Education: The Online Revolution](https://dukelibraries.contentdm.oclc.org/digital/collection/p15957coll16/id/9206) in Duke Engineer Magazine (2013).
-
-## [📜 Essays](https://medium.com/me/stories/public)
-
-*selected entries*
-
-* [A Coding Maxim](https://medium.com/@BrooksMershon/a-coding-maxim-b0c2380f7532)
-* [SIGGRAPH 2016 - A Wide Eyed Account](https://medium.com/@BrooksMershon/siggraph-2016-a-wide-eyed-account-24a5677b2c7a)
-* [Wendi](https://medium.com/@BrooksMershon/wendi-d77df4c6126f)
-* [Flickr](https://medium.com/@BrooksMershon/flickr-d1d7eb09d5c6)
-
-## [📚 Catalog](https://github.com/bmershon/catalog/wiki)
-
-[Books](https://github.com/bmershon/fieldnotes/wiki/Nonfiction-Books), [essays](https://github.com/bmershon/fieldnotes/wiki/Essays), [films](https://github.com/bmershon/fieldnotes/wiki/Films) and [other resources](https://github.com/bmershon/fieldnotes/wiki/Technical-Writing) I have found to be particularly great or enriching. Updated frequently.
-
 ## [📷 Camera](https://www.flickr.com/photos/brooksmershon/albums)
 
 [Flickr](https://www.flickr.com/photos/brooksmershon/), [YouTube](https://www.youtube.com/channel/UCPgjrNcZLa9hZ_tPYRI1pcQ), [Vimeo](https://vimeo.com/bmershon).
