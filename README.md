@@ -4,8 +4,6 @@
 
 Software Developer @ [EarthScope Consortium](https://www.earthscope.org/), focused on making interactive tools on the web.
 
-[→ Flight Instruction](https://www.boulderpilot.com)
-
 [→ My flying logbook](https://observablehq.com/@bmershon/my-flying-data)
 
 [→ Flickr](https://www.flickr.com/photos/brooksmershon/)
