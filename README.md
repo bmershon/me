@@ -14,7 +14,7 @@ Software Developer @ [EarthScope Consortium](https://www.earthscope.org/), focus
 
 [→ Reading](https://github.com/bmershon/catalog/wiki)
 
-[→ Résumé [PDF]](https://github.com/bmershon/me/raw/master/documents/resume/brooks_mershon_2022_resume.pdf)
+[→ Résumé [PDF]](https://github.com/bmershon/me/raw/master/documents/resume/brooks_mershon_2023.pdf)
 
 ## [🆕 Projects](https://github.com/bmershon)
 
