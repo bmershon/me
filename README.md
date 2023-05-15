@@ -18,7 +18,7 @@ Software Developer @ [EarthScope Consortium](https://www.earthscope.org/), focus
 
 ## [🆕 Projects](https://github.com/bmershon)
 
-<a href="https://observablehq.com/collection/@unavco/unavco-for-observable"><img src="https://github.com/bmershon/me/raw/master/img/me/UANVCO_observable_combined_v4.png" width="69%" alt="UNAVCO for Observable"></a>
+<a href="https://observablehq.com/collection/@earthscope"><img src="https://github.com/bmershon/me/raw/master/img/me/UANVCO_observable_combined_v4.png" width="69%" alt="UNAVCO for Observable"></a>
 
 See my latest work for EarthScope on [Observable](https://observablehq.com/collection/@unavco/unavco-for-observable).
 
