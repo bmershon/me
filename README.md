@@ -2,7 +2,7 @@
 
 <img src="https://github.com/bmershon/me/raw/master/img/me/n69kk_mershon.jpg" width="100%" alt="N69KK Pitts S-1S Brooks Mershon">
 
-Software Developer @ [EarthScope Consortium](https://www.earthscope.org/), focused on making interactive tools on the web.
+Software Developer @ [EarthScope Consortium](https://www.earthscope.org/), focused on making interactive tools on the web to support the geoscience community.
 
 [→ My flying logbook](https://observablehq.com/@bmershon/my-flying-data)
 
