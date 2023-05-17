@@ -75,8 +75,6 @@ See my latest work for EarthScope on [Observable](https://observablehq.com/colle
 
 [In the news!](https://wlos.com/community/carolina-moment/aerobatic-pilot-who-competes-year-round-has-big-dreams-of-making-it-to-us-nationals-brooks-mershon)
 
-<img src="https://raw.githubusercontent.com/bmershon/me/master/img/me/PXL_20220812_155708759.jpg" width="100%" alt="Brooks Mershon Bellanca Viking N6694V">
-
 FAA 4034486
 
 EAA 1271516 **(Flight Advisor)**
