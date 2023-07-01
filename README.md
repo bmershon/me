@@ -14,6 +14,9 @@ Software Developer @ [EarthScope Consortium](https://www.earthscope.org/), focus
 
 [→ Résumé [PDF]](https://github.com/bmershon/me/raw/master/documents/resume/brooks_mershon_2023.pdf)
 
+[-> **Flying** Résumé [PDF]](https://github.com/bmershon/me/raw/master/documents/resume/brooks_mershon_2023_flying_resume.pdf)
+
+
 ## [🆕 Projects](https://github.com/bmershon)
 
 <a href="https://observablehq.com/@earthscope"><img src="https://github.com/bmershon/me/raw/master/img/me/UANVCO_observable_combined_v4.png" width="69%" alt="UNAVCO for Observable"></a>
@@ -72,8 +75,6 @@ See my latest work for EarthScope on [Observable](https://observablehq.com/colle
 <a href="https://medium.com/@MershonBrooks/flickr-d1d7eb09d5c6#.tt1jo7ern"><img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/flickr/teaser.png" width="100%" alt="Chain Fence and Spinning Can"></a>
 
 ## [🛩️ Aviation](https://www.flickr.com/photos/brooksmershon/albums/72157669377319182)
-
-[-> **Flying** Résumé [PDF]](https://github.com/bmershon/me/raw/master/documents/)resume/brooks_mershon_2023_flying_resume.pdf)
 
 [In the news!](https://wlos.com/community/carolina-moment/aerobatic-pilot-who-competes-year-round-has-big-dreams-of-making-it-to-us-nationals-brooks-mershon)
 
