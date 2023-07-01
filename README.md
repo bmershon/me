@@ -73,7 +73,7 @@ See my latest work for EarthScope on [Observable](https://observablehq.com/colle
 
 ## [🛩️ Aviation](https://www.flickr.com/photos/brooksmershon/albums/72157669377319182)
 
-[-> **Flying** Résumé [PDF]]([documents/](https://github.com/bmershon/me/raw/master/documents/)resume/brooks_mershon_2023_flying_resume.pdf)
+[-> **Flying** Résumé [PDF]](https://github.com/bmershon/me/raw/master/documents/)resume/brooks_mershon_2023_flying_resume.pdf)
 
 [In the news!](https://wlos.com/community/carolina-moment/aerobatic-pilot-who-competes-year-round-has-big-dreams-of-making-it-to-us-nationals-brooks-mershon)
 
