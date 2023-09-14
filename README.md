@@ -14,7 +14,7 @@ Software Developer @ [EarthScope Consortium](https://www.earthscope.org/), focus
 
 [→ Résumé [PDF]](https://github.com/bmershon/me/raw/master/documents/resume/brooks_mershon_2023.pdf)
 
-[-> **Flying** Résumé [PDF]](https://github.com/bmershon/me/raw/master/documents/resume/brooks_mershon_2023_sept_flying_resume.pdf)
+[-> **Flying** Résumé [PDF]](https://github.com/bmershon/me/blob/15c999e51129fb1b01700fdd4eb5a9a404a51f50/documents/resume/brooks_mershon_2023_sept_flying_resume.docx.pdf)
 
 
 ## [🆕 Projects](https://github.com/bmershon)
