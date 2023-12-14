@@ -14,7 +14,7 @@ So-Cal based aerobatic pilot.
 
 [→ Reading](https://github.com/bmershon/catalog/wiki)
 
-[→ Résumé [PDF]](https://github.com/bmershon/me/raw/master/documents/resume/brooks_mershon_2023.pdf)
+[→ Résumé [PDF]]([https://github.com/bmershon/me/raw/master/documents/resume/brooks_mershon_2023.pdf](https://github.com/bmershon/me/blob/94caf755a17225a85bc921198029099fb0ad7812/documents/resume/brooks_mershon_sept_2023.pdf))
 
 [-> **Flying** Résumé [PDF]](https://github.com/bmershon/me/blob/15c999e51129fb1b01700fdd4eb5a9a404a51f50/documents/resume/brooks_mershon_2023_sept_flying_resume.docx.pdf)
 
