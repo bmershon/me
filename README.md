@@ -18,11 +18,11 @@ So-Cal based aerobatic pilot.
 
 I fly a 1993 Sukhoi SU-26M.
 
+- 2023 Southwest Regional Champion (Intermediate)
 - 2,300+ hours
 - 80+ makes and models
 - EAA Flight Advisor
 - IAC 440213
-- 2023 Southwest Regional Champion (Intermediate)
 
 ## 🎓 Education
 
