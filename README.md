@@ -2,7 +2,7 @@
 
 <img src="https://github.com/bmershon/me/raw/master/img/me/N26KX_Brooks_mershon.png" width="100%" alt="N69KK Pitts S-1S Brooks Mershon">
 
-Software Developer @ a stealth mode startup.
+Software Developer @ a stealth mode startup in the CAD industry.
 
 So-Cal based aerobatic pilot.
 
@@ -23,8 +23,6 @@ I fly a 1993 Sukhoi SU-26M.
 - EAA Flight Advisor
 - IAC 440213
 - 2023 Southwest Regional Champion (Intermediate)
-
-See [www.boulderpilot.com/gallery](https://www.boulderpilot.com/gallery)
 
 ## 🎓 Education
 
