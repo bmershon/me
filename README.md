@@ -41,13 +41,7 @@ Writers in New York 2014
 
 ## 🕔 Experience
 
-### Stealthmode Startup
-
-Software Developer
-
-November 2023 - Present | San Francisco, CA (Remote)
-
-### UNAVCO / EarthScope Consortium
+### EarthScope Consortium
 
 Software Engineer III
 
@@ -58,6 +52,12 @@ Observable](https://observablehq.com/collection/@unavco/unavco-for-observable) f
 - Pedagogical tools related to seismology and GNSS aspects of geoscience.
 - Shake Alert earthquake early warning system design;research and
 development team.
+
+### Stealthmode Startup
+
+Software Developer
+
+November 2023 - August 2024 | San Francisco, CA (Remote)
 
 ### Mile High Gliding
 
