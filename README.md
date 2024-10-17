@@ -2,9 +2,9 @@
 
 <img src="https://github.com/bmershon/me/raw/master/img/me/sukhoi_portrait_n26kx_brooks_mershon.jpg" width="100%" alt="N69KK Pitts S-1S Brooks Mershon">
 
-Software Developer @ a stealth mode startup in the CAD industry.
-
 So-Cal based aerobatic pilot.
+
+I write code for food.
 
 [→ My flying logbook](https://observablehq.com/@bmershon/my-flying-data)
 
@@ -16,10 +16,12 @@ So-Cal based aerobatic pilot.
 
 ## [🛩️ Aviation](https://www.flickr.com/photos/brooksmershon/albums/72157669377319182)
 
-I fly a 1993 Sukhoi SU-26M.
+1993 Sukhoi SU-26M
 
 - 2023 Southwest Regional Champion (Intermediate)
-- 2,300+ hours
+- 🥈 NorCal Classic 2024 Advanced 2nd place.
+- 🥇 Hammerhead Roundup (Borrego) Advanced 1st place 2024
+- 2,600+ hours
 - 80+ makes and models
 - EAA Flight Advisor
 - IAC 440213
