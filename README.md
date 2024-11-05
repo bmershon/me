@@ -2,9 +2,9 @@
 
 <img src="https://github.com/bmershon/me/raw/master/img/me/sukhoi_portrait_n26kx_brooks_mershon.jpg" width="100%" alt="N69KK Pitts S-1S Brooks Mershon">
 
-So-Cal based aerobatic pilot.
+SoCal based aerobatic pilot
 
-I write code for food.
+software developer
 
 [→ My flying logbook](https://observablehq.com/@bmershon/my-flying-data)
 
