@@ -21,6 +21,7 @@ software developer
 - 2023 Southwest Regional Champion (Intermediate)
 - 🥈 NorCal Classic 2024 Advanced 2nd place.
 - 🥇 Hammerhead Roundup (Borrego) Advanced 1st place 2024
+- 🥇 AKROFEST West Open Championship (Borrego) Advanced 1st place (all three flights) 2024
 - 2,600+ hours
 - 80+ makes and models
 - EAA Flight Advisor
