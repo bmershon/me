@@ -19,8 +19,8 @@ software developer
 1993 Sukhoi SU-26M
 
 - 2023 Southwest Regional Champion (Intermediate, Pitts S-1 and Panzl)
-- 🥈 NorCal Classic 2024 Advanced 2nd place, SU-26M
 - 🥇 Hammerhead Roundup (Borrego) Advanced 1st place 2024, SU-26M
+- 🥈 NorCal Classic 2024 Advanced 2nd place, SU-26M
 - 🥇 AKROFEST West Open Championship (Borrego) Advanced 1st place (all three flights) 2024, SU-26M
 - 2,600+ hours
 - 80+ makes and models
