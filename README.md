@@ -24,7 +24,7 @@ software developer
 - 🥇 AKROFEST West Open Championship (Borrego) Advanced 1st place (all three flights) 2024, SU-26M
 - 2,600+ hours
 - 80+ makes and models
-- EAA Flight Advisor
+- EAA Flight Advisor, first flight testing of the Timber Tiger Aircraft ST-L, Ryan ST 95% replica
 - IAC 440213
 
 ## 🎓 Education
