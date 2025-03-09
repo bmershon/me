@@ -22,7 +22,7 @@ software developer
 - 🥇 Hammerhead Roundup (Borrego) Advanced 1st place 2024, SU-26M
 - 🥈 NorCal Classic 2024 Advanced 2nd place, SU-26M
 - 🥇 AKROFEST West Open Championship (Borrego) Advanced 1st place (all three flights) 2024, SU-26M
-- 2,600+ hours
+- 2,500+ hours
 - 80+ makes and models
 - EAA Flight Advisor, first flight testing of the Timber Tiger Aircraft ST-L, Ryan ST 95% replica
 - IAC 440213
@@ -34,13 +34,11 @@ BS in Computer Science
 
 May 2016 | Durham, NC
 
-Cum. GPA: 3.74 / 4.0
-
 Duke Cycling Team Member
 
 ### New York University
 
-Writers in New York 2014
+Writers in New York Summer 2014
 
 ## 🕔 Experience
 
