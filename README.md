@@ -12,7 +12,7 @@ software developer
 
 [→ YouTube](https://www.youtube.com/user/BrooksMershon/featured)
 
-[→ Résumé [PDF]](https://github.com/bmershon/me/blob/94caf755a17225a85bc921198029099fb0ad7812/documents/resume/brooks_mershon_sept_2023.pdf)
+[→ Résumé [PDF]](https://github.com/bmershon/me/blob/94caf755a17225a85bc921198029099fb0ad7812/documents/resume/brooks_mershon_flying_resume_2025.pdf)
 
 ## [🛩️ Aviation](https://www.flickr.com/photos/brooksmershon/albums/72157669377319182)
 
