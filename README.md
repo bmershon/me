@@ -22,7 +22,7 @@ software developer
 - 🥇 Hammerhead Roundup (Borrego) Advanced 1st place 2024, SU-26M
 - 🥈 NorCal Classic 2024 Advanced 2nd place, SU-26M
 - 🥇 AKROFEST West Open Championship (Borrego) Advanced 1st place (all three flights) 2024, SU-26M
-- 2,500+ hours
+- 2,550+ hours
 - 80+ makes and models
 - EAA Flight Advisor, first flight testing of the Timber Tiger Aircraft ST-L, Ryan ST 95% replica
 - IAC 440213
