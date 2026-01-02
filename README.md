@@ -4,7 +4,7 @@
 
 airplanes, airplanes, airplanes
 
-[→ Insta][https://www.instagram.com/brooks_mershon/)
+[→ Insta](https://www.instagram.com/brooks_mershon/)
 
 [→ Flickr](https://www.flickr.com/photos/brooksmershon/)
 
