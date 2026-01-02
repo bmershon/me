@@ -1,6 +1,6 @@
 # Brooks Mershon
 
-<img src="https://github.com/bmershon/me/raw/master/img/me/mershon_sukhoi_head_on.jpg" width="100%" alt="Credit: Evan Byrn and Josh Corr">
+<img src="https://github.com/bmershon/me/raw/master/img/me/mershon_sukhoi_head_on.jpg" width="100%" title="Credit: Evan Byrn and Josh Corr" alt="Sukhoi head-on over KSZP">
 
 airplanes, airplanes, airplanes
 
