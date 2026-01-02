@@ -1,6 +1,6 @@
 # Brooks Mershon
 
-<img src="https://github.com/bmershon/me/raw/master/img/me/sukhoi_portrait_n26kx_brooks_mershon.jpg" width="100%" alt="N69KK Pitts S-1S Brooks Mershon">
+<img src="https://github.com/bmershon/me/raw/master/img/me/mershon_sukhoi_head_on.jpg" width="100%" alt="N69KK Pitts S-1S Brooks Mershon">
 
 airplanes, airplanes, airplanes
 
