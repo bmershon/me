@@ -2,30 +2,25 @@
 
 <img src="https://github.com/bmershon/me/raw/master/img/me/sukhoi_portrait_n26kx_brooks_mershon.jpg" width="100%" alt="N69KK Pitts S-1S Brooks Mershon">
 
-SoCal based aerobatic pilot
-
-software developer
-
-[→ My flying logbook](https://observablehq.com/@bmershon/my-flying-data)
+airplanes, airplanes, airplanes
 
 [→ Flickr](https://www.flickr.com/photos/brooksmershon/)
 
 [→ YouTube](https://www.youtube.com/user/BrooksMershon/featured)
 
-[→ Résumé [PDF]](https://github.com/bmershon/me/blob/8bde24f0867babef9b25269f5da48f775f3490ca/documents/resume/brooks_mershon_flying_resume_2025.pdf)
-
 ## [🛩️ Aviation](https://www.flickr.com/photos/brooksmershon/albums/72157669377319182)
 
 1993 Sukhoi SU-26M
 
+- 2025 Southwest Regional Champion (Advanced, Sukhoi 26M)
+- 2024 Southwest Regional Champion (Advanced, Sukhoi 26M)
 - 2023 Southwest Regional Champion (Intermediate, Pitts S-1 and Panzl)
-- 🥇 Hammerhead Roundup (Borrego) Advanced 1st place 2024, SU-26M
-- 🥈 NorCal Classic 2024 Advanced 2nd place, SU-26M
-- 🥇 AKROFEST West Open Championship (Borrego) Advanced 1st place (all three flights) 2024, SU-26M
-- 2,550+ hours
+- 2,700+ hours
 - 80+ makes and models
 - EAA Flight Advisor, first flight testing of the Timber Tiger Aircraft ST-L, Ryan ST 95% replica
 - IAC 440213
+
+Previously Panzl, Pitts S-1S, Skybolt...
 
 ## 🎓 Education
 
