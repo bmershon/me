@@ -17,7 +17,7 @@ airplanes, airplanes, airplanes
 - 2025 Southwest Regional Champion (Advanced, Sukhoi 26M)
 - 2024 Southwest Regional Champion (Advanced, Sukhoi 26M)
 - 2023 Southwest Regional Champion (Intermediate, Pitts S-1 and Panzl)
-- 2,700+ hours
+- 3,000+ hours
 - 80+ makes and models
 - EAA Flight Advisor, first flight testing of the Timber Tiger Aircraft ST-L, Ryan ST 95% replica
 - IAC 440213
@@ -39,6 +39,12 @@ Writers in New York Summer 2014
 
 ## 🕔 Experience
 
+### Best Jets International
+
+First Officer
+
+Embraer E170
+
 ### EarthScope Consortium
 
 Software Engineer III
@@ -51,11 +57,6 @@ Observable](https://observablehq.com/collection/@unavco/unavco-for-observable) f
 - Shake Alert earthquake early warning system design;research and
 development team.
 
-### Stealthmode Startup
-
-Software Developer
-
-November 2023 - August 2024 | San Francisco, CA (Remote)
 
 ### Mile High Gliding
 
