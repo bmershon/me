@@ -41,9 +41,9 @@ Writers in New York Summer 2014
 
 ### Best Jets International
 
-First Officer
+Dec 2026 - Present | Bentonville, AR
 
-Embraer E170
+- First Officer, Embraer E170. Corporate shuttle.
 
 ### EarthScope Consortium
 
