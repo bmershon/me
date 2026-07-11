@@ -9,5 +9,3 @@
 [→ Flickr](https://www.flickr.com/photos/brooksmershon/)
 
 [→ YouTube](https://www.youtube.com/user/BrooksMershon/featured)
-
-## [🛩️ Aviation](https://www.flickr.com/photos/brooksmershon/albums/72157669377319182)
